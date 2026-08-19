@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 19, 2026
+- [Sennheiser HD 505: A Detailed Spec Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-sennheiser-hd-505-a-detailed-spec-analysis.md)
 - [Accessorize Your Yamaha HPH-MT5 Monitor: Smart Add-Ons (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-accessorize-your-yamaha-hph-mt5-monitor-smart-add-ons-2026.md)
 - [6 Alternatives to Yamaha HPH-MT5 Monitor That Are Worth It&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-6-alternatives-to-yamaha-hph-mt5-monitor-that-are-worth-it.md)
 - [Yamaha HPH-MT5 Monitor: Does It Deliver? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-yamaha-hph-mt5-monitor-does-it-deliver-2026.md)
