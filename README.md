@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 19, 2026
+- [Audio-Technica ATH-M30x Professional or Deco Gear Hard? A&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-audio-technica-ath-m30x-professional-or-deco-gear-hard-a.md)
 - [Audio-Technica ATH-M30x Professional vs the Competition: 7&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-audio-technica-ath-m30x-professional-vs-the-competition-7.md)
 - [Top Audio-Technica ATH-M30x Professional for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-top-audio-technica-ath-m30x-professional-for-headphones-2026.md)
 - [Great Gifts for Sennheiser HD 505 Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-great-gifts-for-sennheiser-hd-505-owners-2026.md)
