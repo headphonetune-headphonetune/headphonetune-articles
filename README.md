@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 19, 2026
+- [What to Get Instead of Philips Audio SHP9500: 5 Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-what-to-get-instead-of-philips-audio-shp9500-5-picks-2026.md)
 - [Philips Audio SHP9500: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-philips-audio-shp9500-features-specs-guide.md)
 - [Philips Over Ear vs Philips H9505 Hybrid: Is the Upgrade&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-philips-over-ear-vs-philips-h9505-hybrid-is-the-upgrade.md)
 - [Skip Philips Over Ear? Try These 5 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-skip-philips-over-ear-try-these-5-alternatives-2026.md)
