@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 19, 2026
+- [Philips Over Ear vs Philips H9505 Hybrid: Is the Upgrade&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-philips-over-ear-vs-philips-h9505-hybrid-is-the-upgrade.md)
 - [Skip Philips Over Ear? Try These 5 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-skip-philips-over-ear-try-these-5-alternatives-2026.md)
 - [Headphones Pick: Philips Over Ear (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-headphones-pick-philips-over-ear-2026.md)
 - [5 Essential Accessories for Your AKG K240STUDIO Semi-Open (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-5-essential-accessories-for-your-akg-k240studio-semi-open-2026.md)
