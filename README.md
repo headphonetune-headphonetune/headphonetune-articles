@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 19, 2026
+- [Sennheiser HD 280: Evaluating the Features](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-sennheiser-hd-280-evaluating-the-features.md)
 - [5 Essential Accessories for Your P PUPGSIS M20 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-5-essential-accessories-for-your-p-pupgsis-m20-2026.md)
 - [P PUPGSIS M20: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-p-pupgsis-m20-spec-breakdown-2026.md)
 - [What to Buy With Your Sennheiser HD 560S: Complete&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-what-to-buy-with-your-sennheiser-hd-560s-complete.md)
