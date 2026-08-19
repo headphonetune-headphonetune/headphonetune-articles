@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 19, 2026
+- [Headphones Pick: TASCAM TH-02 Professional (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-headphones-pick-tascam-th-02-professional-2026.md)
 - [Jxrev Wireless Earbuds Starter Kit Review: Solid Basics, Weak ANC](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-jxrev-wireless-earbuds-starter-kit-review-solid-basics-weak-anc.md)
 - [Small Upgrades for Your Audio-Technica ATH-M30x&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-small-upgrades-for-your-audio-technica-ath-m30x.md)
 - [Audio-Technica ATH-M30x Professional or Deco Gear Hard? A&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-audio-technica-ath-m30x-professional-or-deco-gear-hard-a.md)
