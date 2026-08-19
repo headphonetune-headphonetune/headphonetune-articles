@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 19, 2026
+- [Sennheiser HD 599 vs the Competition: 7 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-sennheiser-hd-599-vs-the-competition-7-alternatives-2026.md)
 - [Sennheiser HD 599: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-sennheiser-hd-599-spec-breakdown-2026.md)
 - [Best Accessories for Sennheiser HD 280: Top Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-best-accessories-for-sennheiser-hd-280-top-picks-2026.md)
 - [Sennheiser HD 280: Evaluating the Features](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-sennheiser-hd-280-evaluating-the-features.md)
