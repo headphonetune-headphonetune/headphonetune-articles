@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 19, 2026
+- [Jxrev Wireless Earbuds Starter Kit Review: Solid Basics, Weak ANC](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-jxrev-wireless-earbuds-starter-kit-review-solid-basics-weak-anc.md)
 - [Small Upgrades for Your Audio-Technica ATH-M30x&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-small-upgrades-for-your-audio-technica-ath-m30x.md)
 - [Audio-Technica ATH-M30x Professional or Deco Gear Hard? A&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-audio-technica-ath-m30x-professional-or-deco-gear-hard-a.md)
 - [Audio-Technica ATH-M30x Professional vs the Competition: 7&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-audio-technica-ath-m30x-professional-vs-the-competition-7.md)
