@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 20, 2026
+- [Is It Time to Upgrade? OneOdio A71 Hi-Res vs OneOdio&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-is-it-time-to-upgrade-oneodio-a71-hi-res-vs-oneodio.md)
 - [OneOdio A71 Hi-Res &#8211; Headphones Review (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-oneodio-a71-hi-res-headphones-review-2026.md)
 - [beyerdynamic DT 990 Accessories That Last: Quality Picks&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-beyerdynamic-dt-990-accessories-that-last-quality-picks.md)
 - [beyerdynamic DT 990 vs : Should You Upgrade? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-beyerdynamic-dt-990-vs-should-you-upgrade-2026.md)
