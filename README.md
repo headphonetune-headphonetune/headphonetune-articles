@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 20, 2026
+- [Is Docutca USB C the Best Upgrade for Docutca 2 Pack? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-is-docutca-usb-c-the-best-upgrade-for-docutca-2-pack-2026.md)
 - [Docutca 2 Pack: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-docutca-2-pack-spec-focused-overview.md)
 - [What to Buy With Your Linsoul KZ ZS10: Complete Checklist&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-what-to-buy-with-your-linsoul-kz-zs10-complete-checklist.md)
 - [Skip Linsoul KZ ZS10? Try These 5 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-skip-linsoul-kz-zs10-try-these-5-alternatives-2026.md)
