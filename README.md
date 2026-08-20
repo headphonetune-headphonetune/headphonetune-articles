@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 20, 2026
+- [Best Value Accessories for Philips Open Back (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-best-value-accessories-for-philips-open-back-2026.md)
 - [Philips Open Back vs Its Top 5 Competitors (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-philips-open-back-vs-its-top-5-competitors-2026.md)
 - [Philips Open Back: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-philips-open-back-spec-focused-overview.md)
 - [5 Essential Accessories for Your ARTIX CL750 Wired (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-5-essential-accessories-for-your-artix-cl750-wired-2026.md)
