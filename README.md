@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 20, 2026
+- [ARTIX CL750 Wired: A Detailed Spec Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-artix-cl750-wired-a-detailed-spec-analysis.md)
 - [Do Not Skip These MAONO MH700 Wired Accessories (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-do-not-skip-these-maono-mh700-wired-accessories-2026.md)
 - [MAONO MH700 Wired vs the Competition: 5 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-maono-mh700-wired-vs-the-competition-5-alternatives-2026.md)
 - [Top MAONO MH700 Wired for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-top-maono-mh700-wired-for-headphones-2026.md)
