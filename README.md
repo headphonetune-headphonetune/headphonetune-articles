@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 20, 2026
+- [Sennheiser HD600 Headphones: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-sennheiser-hd600-headphones-is-it-worth-it-2026.md)
 - [syndesmos Wired Headphones to syndesmos Wireless PS5&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-syndesmos-wired-headphones-to-syndesmos-wireless-ps5.md)
 - [syndesmos Wired Headphones: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-syndesmos-wired-headphones-top-features-compared-2026.md)
 - [Best Value Accessories for Sony WH-1000XM5 Premium (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-best-value-accessories-for-sony-wh-1000xm5-premium-2026.md)
