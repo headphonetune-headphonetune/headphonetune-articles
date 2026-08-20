@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 20, 2026
+- [Wireless Earbuds &amp; Q20i vs QTREE intelligence Gaming:&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-wireless-earbuds-q20i-vs-qtree-intelligence-gaming.md)
 - [Headphones Pick: MAONO MH601 Wired (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-headphones-pick-maono-mh601-wired-2026.md)
 
 ### August 19, 2026
