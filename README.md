@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### August 20, 2026
+- [Headphones Pick: MAONO MH601 Wired (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-20-headphones-pick-maono-mh601-wired-2026.md)
+
 ### August 19, 2026
 - [5 Essential Accessories for Your Botesty Sound Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-5-essential-accessories-for-your-botesty-sound-headphones-2026.md)
 - [Great Gifts for Botesty Sound Headphones Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-19-great-gifts-for-botesty-sound-headphones-owners-2026.md)
