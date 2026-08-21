@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 21, 2026
+- [5 Essential Accessories for Your AKG Pro Audio K72 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-5-essential-accessories-for-your-akg-pro-audio-k72-2026.md)
 - [Make the Most of AKG Pro Audio K72: Essential Add-Ons (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-make-the-most-of-akg-pro-audio-k72-essential-add-ons-2026.md)
 - [AKG Pro Audio K72 Alternatives: What to Consider Instead&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-akg-pro-audio-k72-alternatives-what-to-consider-instead.md)
 - [AKG Pro Audio K72: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-akg-pro-audio-k72-breaking-down-the-specs.md)
