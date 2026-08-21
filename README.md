@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 21, 2026
+- [Bose QuietComfort Headphones: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-bose-quietcomfort-headphones-top-features-compared-2026.md)
 - [5 Essential Accessories for Your JBL Quantum 100M2 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-5-essential-accessories-for-your-jbl-quantum-100m2-2026.md)
 - [JBL Quantum 100M2 Setup: Essential Accessories &amp; Add-Ons&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-jbl-quantum-100m2-setup-essential-accessories-add-ons.md)
 - [JBL Quantum 100M2: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-jbl-quantum-100m2-spec-focused-overview.md)
