@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 21, 2026
+- [Make the Most of JLab: Essential Add-Ons (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-make-the-most-of-jlab-essential-add-ons-2026.md)
 - [6 Budget-Friendly Alternatives to JLab (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-6-budget-friendly-alternatives-to-jlab-2026.md)
 - [JLab &#8211; Headphones Review (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-jlab-headphones-review-2026.md)
 - [Bose QuietComfort Headphones Setup: Essential Accessories&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-bose-quietcomfort-headphones-setup-essential-accessories.md)
