@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 21, 2026
+- [JBL Quantum 100M2: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-jbl-quantum-100m2-spec-focused-overview.md)
 - [5 Essential Accessories for Your ADAM Audio H200 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-5-essential-accessories-for-your-adam-audio-h200-2026.md)
 - [ADAM Audio H200 Accessories That Last: Quality Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-adam-audio-h200-accessories-that-last-quality-picks-2026.md)
 - [Pick a Winner: 6 Alternatives to ADAM Audio H200 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-pick-a-winner-6-alternatives-to-adam-audio-h200-2026.md)
