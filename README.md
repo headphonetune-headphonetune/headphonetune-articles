@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 21, 2026
+- [Top Skullcandy Crusher 1080 for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-top-skullcandy-crusher-1080-for-headphones-2026.md)
 - [5 Essential Accessories for Your OneOdio Hi-Res Over (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-5-essential-accessories-for-your-oneodio-hi-res-over-2026.md)
 - [OneOdio Hi-Res Over Essentials: What to Grab First (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-oneodio-hi-res-over-essentials-what-to-grab-first-2026.md)
 - [Looking for OneOdio Hi-Res Over Alternatives? 6 Top Picks&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-looking-for-oneodio-hi-res-over-alternatives-6-top-picks.md)
