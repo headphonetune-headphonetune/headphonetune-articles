@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 21, 2026
+- [JLab &#8211; Headphones Review (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-jlab-headphones-review-2026.md)
 - [Bose QuietComfort Headphones Setup: Essential Accessories&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-bose-quietcomfort-headphones-setup-essential-accessories.md)
 - [Wireless Earbuds &amp; Q20i vs INFURTURE Over Ear: Key Differences](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-wireless-earbuds-q20i-vs-infurture-over-ear-key-differences.md)
 - [Bose QuietComfort Headphones: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-bose-quietcomfort-headphones-top-features-compared-2026.md)
