@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 22, 2026
+- [SHOKZ OpenFit 2+ vs gudxfj 2 Pack: Should You Upgrade? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-shokz-openfit-2-vs-gudxfj-2-pack-should-you-upgrade-2026.md)
 - [The Best SHOKZ OpenFit 2+ Alternatives: 7 Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-the-best-shokz-openfit-2-alternatives-7-compared-2026.md)
 - [SHOKZ OpenFit 2+: Evaluating the Features](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-shokz-openfit-2-evaluating-the-features.md)
 - [Do Not Skip These JLab Go Air Accessories (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-do-not-skip-these-jlab-go-air-accessories-2026.md)
