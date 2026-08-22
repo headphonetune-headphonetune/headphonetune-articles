@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 22, 2026
+- [Sony RF400 Wireless: What to Know Before Buying](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-sony-rf400-wireless-what-to-know-before-buying.md)
 - [5 Must-Have Accessories for Your Skullcandy Grom Wireless](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-5-must-have-accessories-for-your-skullcandy-grom-wireless.md)
 - [Skullcandy Crusher ANC 2 vs Skullcandy SLYR Pro: Which One&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-skullcandy-crusher-anc-2-vs-skullcandy-slyr-pro-which-one.md)
 - [Skullcandy Crusher ANC 2: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-skullcandy-crusher-anc-2-top-features-compared-2026.md)
