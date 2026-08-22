@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 22, 2026
+- [TALIX H30 Hybrid: Right for Your Needs?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-talix-h30-hybrid-right-for-your-needs.md)
 - [Top Add-Ons for HyperX Cloud III: What to Buy Together (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-top-add-ons-for-hyperx-cloud-iii-what-to-buy-together-2026.md)
 - [HyperX Cloud III: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-hyperx-cloud-iii-specs-performance-review.md)
 - [SHOKZ OpenFit 2+ vs gudxfj 2 Pack: Should You Upgrade? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-shokz-openfit-2-vs-gudxfj-2-pack-should-you-upgrade-2026.md)
