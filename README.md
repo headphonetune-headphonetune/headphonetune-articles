@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 22, 2026
+- [Worth Upgrading? TALIX H30 Hybrid vs TALIX Open Ear (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-worth-upgrading-talix-h30-hybrid-vs-talix-open-ear-2026.md)
 - [7 Budget-Friendly Alternatives to TALIX H30 Hybrid (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-7-budget-friendly-alternatives-to-talix-h30-hybrid-2026.md)
 - [TALIX H30 Hybrid: Right for Your Needs?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-talix-h30-hybrid-right-for-your-needs.md)
 - [Top Add-Ons for HyperX Cloud III: What to Buy Together (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-top-add-ons-for-hyperx-cloud-iii-what-to-buy-together-2026.md)
