@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### August 22, 2026
+- [JLab Go Air: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-jlab-go-air-features-specs-guide.md)
+
 ### August 21, 2026
 - [Audio-Technica ATH-M20xBT Wireless to Audio-Technica&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-audio-technica-ath-m20xbt-wireless-to-audio-technica.md)
 - [What Else Is Like Audio-Technica ATH-M20xBT Wireless? 5&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-21-what-else-is-like-audio-technica-ath-m20xbt-wireless-5.md)
