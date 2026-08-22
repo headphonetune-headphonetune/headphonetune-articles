@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 22, 2026
+- [Shure SRH440A Over-Ear: Practical Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-shure-srh440a-over-ear-practical-analysis.md)
 - [5 Essential Accessories for Your LUDOS Zenith Wired (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-5-essential-accessories-for-your-ludos-zenith-wired-2026.md)
 - [Pair These Accessories With LUDOS Zenith Wired (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-pair-these-accessories-with-ludos-zenith-wired-2026.md)
 - [5 Budget-Friendly Alternatives to LUDOS Zenith Wired (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-5-budget-friendly-alternatives-to-ludos-zenith-wired-2026.md)
