@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 22, 2026
+- [Wireless Earbuds &amp; Q20i vs Picun F8 Pro: Features Compared](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-wireless-earbuds-q20i-vs-picun-f8-pro-features-compared.md)
 - [JLab Go Air: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-jlab-go-air-features-specs-guide.md)
 
 ### August 21, 2026
