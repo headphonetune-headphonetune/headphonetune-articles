@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 22, 2026
+- [COOSII AC01 Over-Ear vs COOSII Wired Over: Spec-by-Spec&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-coosii-ac01-over-ear-vs-coosii-wired-over-spec-by-spec.md)
 - [COOSII AC01 Over-Ear: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-coosii-ac01-over-ear-is-it-worth-it-2026.md)
 - [JBL Tune 770NC: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-jbl-tune-770nc-spec-breakdown-2026.md)
 - [5 Essential Accessories for Your Shure SRH440A Over-Ear (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-22-5-essential-accessories-for-your-shure-srh440a-over-ear-2026.md)
