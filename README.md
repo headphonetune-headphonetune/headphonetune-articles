@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 23, 2026
+- [Soundcore P20i vs CNBRO Smart: Which Wireless Earbuds Win?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-soundcore-p20i-vs-cnbro-smart-which-wireless-earbuds-win.md)
 - [5 Essential Accessories for Your Otium LFS Bluetooth (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-5-essential-accessories-for-your-otium-lfs-bluetooth-2026.md)
 - [Upgrade Your Otium LFS Bluetooth: Accessories Worth It (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-upgrade-your-otium-lfs-bluetooth-accessories-worth-it-2026.md)
 - [Otium LFS Bluetooth: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-otium-lfs-bluetooth-specs-performance-review.md)
