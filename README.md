@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 23, 2026
+- [Upgrade Your Otium LFS Bluetooth: Accessories Worth It (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-upgrade-your-otium-lfs-bluetooth-accessories-worth-it-2026.md)
 - [Otium LFS Bluetooth: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-otium-lfs-bluetooth-specs-performance-review.md)
 - [5 Essential Accessories for Your Marshall Major V (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-5-essential-accessories-for-your-marshall-major-v-2026.md)
 - [Best Accessories for Marshall Major V: Top Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-best-accessories-for-marshall-major-v-top-picks-2026.md)
