@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 23, 2026
+- [FiiO JT7 Over-Ear: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-fiio-jt7-over-ear-is-it-worth-it-2026.md)
 - [5 Essential Accessories for Your MRYTKY Bone Conduction (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-5-essential-accessories-for-your-mrytky-bone-conduction-2026.md)
 - [Level Up Your MRYTKY Bone Conduction: 5 Accessories (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-level-up-your-mrytky-bone-conduction-5-accessories-2026.md)
 - [MRYTKY Bone Conduction: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-mrytky-bone-conduction-spec-breakdown-2026.md)
