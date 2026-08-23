@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 23, 2026
+- [USB C &amp; 3: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-usb-c-3-is-it-worth-it-2026.md)
 - [Small Upgrades for Your Sony MDRZX110NC Noise (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-small-upgrades-for-your-sony-mdrzx110nc-noise-2026.md)
 - [Should You Upgrade to Sony WF-1000XM6? Sony MDRZX110NC&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-should-you-upgrade-to-sony-wf-1000xm6-sony-mdrzx110nc.md)
 - [Sony MDRZX110NC Noise: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-sony-mdrzx110nc-noise-what-the-specs-tell-us.md)
