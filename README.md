@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 23, 2026
+- [OneOdio Wired DJ Accessories for New Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-oneodio-wired-dj-accessories-for-new-owners-2026.md)
 - [Is It Time to Upgrade? OneOdio Wired DJ vs Ear Headphones&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-is-it-time-to-upgrade-oneodio-wired-dj-vs-ear-headphones.md)
 - [Not Sure About OneOdio Wired DJ? Check These 5 Similar&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-not-sure-about-oneodio-wired-dj-check-these-5-similar.md)
 - [OneOdio Wired DJ: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-oneodio-wired-dj-specs-performance-review.md)
