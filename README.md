@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 23, 2026
+- [MORMOQUE EP05 Wired: What to Know Before Buying](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-mormoque-ep05-wired-what-to-know-before-buying.md)
 - [The FiiO JT7 Over-Ear Add-On Checklist: 5 Essentials (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-the-fiio-jt7-over-ear-add-on-checklist-5-essentials-2026.md)
 - [FiiO JT7 Over-Ear: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-fiio-jt7-over-ear-is-it-worth-it-2026.md)
 - [5 Essential Accessories for Your MRYTKY Bone Conduction (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-5-essential-accessories-for-your-mrytky-bone-conduction-2026.md)
