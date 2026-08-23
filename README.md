@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 23, 2026
+- [Should You Upgrade to Sony WF-1000XM6? Sony MDRZX110NC&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-should-you-upgrade-to-sony-wf-1000xm6-sony-mdrzx110nc.md)
 - [Sony MDRZX110NC Noise: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-sony-mdrzx110nc-noise-what-the-specs-tell-us.md)
 - [The Philips Fidelio X2HR Starter Pack: What to Order&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-the-philips-fidelio-x2hr-starter-pack-what-to-order.md)
 - [Philips Fidelio X2HR to Mchoi Shockproof Carrying: Worth&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-philips-fidelio-x2hr-to-mchoi-shockproof-carrying-worth.md)
