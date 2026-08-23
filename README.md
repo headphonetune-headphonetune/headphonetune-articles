@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 23, 2026
+- [Top Add-Ons for KVIDIO Active Noise: What to Buy Together&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-top-add-ons-for-kvidio-active-noise-what-to-buy-together.md)
 - [KVIDIO Active Noise: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-kvidio-active-noise-spec-focused-overview.md)
 - [Soundcore P20i vs CNBRO Smart: Which Wireless Earbuds Win?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-soundcore-p20i-vs-cnbro-smart-which-wireless-earbuds-win.md)
 - [5 Essential Accessories for Your Otium LFS Bluetooth (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-5-essential-accessories-for-your-otium-lfs-bluetooth-2026.md)
