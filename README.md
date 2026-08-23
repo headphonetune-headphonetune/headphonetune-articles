@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 23, 2026
+- [OneOdio Wired DJ: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-oneodio-wired-dj-specs-performance-review.md)
 - [Top Add-Ons for Vic Firth Vic: What to Buy Together (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-top-add-ons-for-vic-firth-vic-what-to-buy-together-2026.md)
 - [Pick a Winner: 5 Alternatives to Vic Firth Vic (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-pick-a-winner-5-alternatives-to-vic-firth-vic-2026.md)
 - [Wireless Earbuds &amp; Q20i vs L LTGEM Case: Which to Pick?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-wireless-earbuds-q20i-vs-l-ltgem-case-which-to-pick.md)
