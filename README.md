@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 23, 2026
+- [What to Get Instead of Marshall Major V: 5 Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-what-to-get-instead-of-marshall-major-v-5-picks-2026.md)
 - [Marshall Major V: A Detailed Spec Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-marshall-major-v-a-detailed-spec-analysis.md)
 - [Amazon Basics Hybrid: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-amazon-basics-hybrid-what-the-specs-tell-us.md)
 - [5 Essential Accessories for Your Linsoul KZ ZS10 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-5-essential-accessories-for-your-linsoul-kz-zs10-2026.md)
