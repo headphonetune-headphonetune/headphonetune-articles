@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 24, 2026
+- [Wireless Earbuds &amp; Q20i vs DEWALT Heavy Duty: Specs Compared&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-wireless-earbuds-q20i-vs-dewalt-heavy-duty-specs-compared.md)
 - [Studio Monitor &amp;: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-studio-monitor-breaking-down-the-specs.md)
 - [5 Must-Have Accessories for Skullcandy Crusher Evo (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-5-must-have-accessories-for-skullcandy-crusher-evo-2026.md)
 - [Skullcandy Crusher Evo: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-skullcandy-crusher-evo-spec-focused-overview.md)
