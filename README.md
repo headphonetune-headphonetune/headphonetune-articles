@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 24, 2026
+- [Soundcore P20i vs CNBRO Wireless Smart: Our Clear Winner](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-soundcore-p20i-vs-cnbro-wireless-smart-our-clear-winner.md)
 - [Accessorize Your Egghead Over-Ear Kids&#8217;: Smart Add-Ons (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-accessorize-your-egghead-over-ear-kids-smart-add-ons-2026.md)
 - [Egghead Over-Ear Kids&#8217; vs Egghead® Premium Heavy-Duty&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-egghead-over-ear-kids-vs-egghead-premium-heavy-duty.md)
 - [Egghead Over-Ear Kids&#8217;: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-egghead-over-ear-kids-what-the-specs-tell-us.md)
