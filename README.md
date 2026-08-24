@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 24, 2026
+- [Skullcandy Method 360: What to Know Before Buying](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-skullcandy-method-360-what-to-know-before-buying.md)
 - [5 Essential Accessories for Your BASN Bmaster Triple (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-5-essential-accessories-for-your-basn-bmaster-triple-2026.md)
 - [BASN Bmaster Triple Essentials: What to Grab First (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-basn-bmaster-triple-essentials-what-to-grab-first-2026.md)
 - [BASN Bmaster Triple or BASN MMCX in? A Detailed Comparison&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-basn-bmaster-triple-or-basn-mmcx-in-a-detailed-comparison.md)
