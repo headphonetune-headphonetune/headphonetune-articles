@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 24, 2026
+- [H2O Audio Sonar 2: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-h2o-audio-sonar-2-what-the-specs-tell-us.md)
 - [Great Gifts for SENDY AUDIO SENDY Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-great-gifts-for-sendy-audio-sendy-owners-2026.md)
 - [SENDY AUDIO SENDY vs AOLION Headset Adapter: Spec-by-Spec&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-sendy-audio-sendy-vs-aolion-headset-adapter-spec-by-spec.md)
 - [Wireless Earbuds &amp; Q20i vs Vonaural Upgraded Pro: Features&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-wireless-earbuds-q20i-vs-vonaural-upgraded-pro-features.md)
