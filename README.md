@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### August 24, 2026
+- [Skullcandy Crusher Evo: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-skullcandy-crusher-evo-spec-focused-overview.md)
+
 ### August 23, 2026
 - [5 Essential Accessories for Your COOSII AC01 Over (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-5-essential-accessories-for-your-coosii-ac01-over-2026.md)
 - [What to Buy With COOSII AC01 Over: 5 Essentials (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-23-what-to-buy-with-coosii-ac01-over-5-essentials-2026.md)
