@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 24, 2026
+- [Studio Monitor &amp;: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-studio-monitor-breaking-down-the-specs.md)
 - [5 Must-Have Accessories for Skullcandy Crusher Evo (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-5-must-have-accessories-for-skullcandy-crusher-evo-2026.md)
 - [Skullcandy Crusher Evo: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-skullcandy-crusher-evo-spec-focused-overview.md)
 
