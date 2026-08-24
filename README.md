@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 24, 2026
+- [5 Essential Accessories for Your Sennheiser RS 120-W (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-5-essential-accessories-for-your-sennheiser-rs-120-w-2026.md)
 - [Upgrade Your Sennheiser RS 120-W: Accessories Worth It (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-upgrade-your-sennheiser-rs-120-w-accessories-worth-it-2026.md)
 - [Sennheiser RS 120-W vs YunYiYi Cooling Gel: Spec-by-Spec&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-sennheiser-rs-120-w-vs-yunyiyi-cooling-gel-spec-by-spec.md)
 - [What to Get Instead of Sennheiser RS 120-W: 5 Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-what-to-get-instead-of-sennheiser-rs-120-w-5-picks-2026.md)
