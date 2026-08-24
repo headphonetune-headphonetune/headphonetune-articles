@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 24, 2026
+- [Sennheiser RS 120-W: Competitive Analysis (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-sennheiser-rs-120-w-competitive-analysis-2026.md)
 - [5 Essential Accessories for Your Skullcandy Method 360 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-5-essential-accessories-for-your-skullcandy-method-360-2026.md)
 - [Skullcandy Method 360 Buyer&#8217;s Checklist: Everything You&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-skullcandy-method-360-buyers-checklist-everything-you.md)
 - [Skullcandy Method 360: What to Know Before Buying](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-skullcandy-method-360-what-to-know-before-buying.md)
