@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 24, 2026
+- [Egghead Over-Ear Kids&#8217;: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-egghead-over-ear-kids-what-the-specs-tell-us.md)
 - [The Monster Harmonic N22 Add-On Checklist: 5 Essentials (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-the-monster-harmonic-n22-add-on-checklist-5-essentials-2026.md)
 - [Monster Harmonic N22 vs the Competition: 7 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-monster-harmonic-n22-vs-the-competition-7-alternatives-2026.md)
 - [Monster Harmonic N22: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-monster-harmonic-n22-what-the-specs-tell-us.md)
