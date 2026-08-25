@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [5 Essential Accessories for Your OneOdio Wired DJ (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-5-essential-accessories-for-your-oneodio-wired-dj-2026.md)
 - [OneOdio Wired DJ: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-oneodio-wired-dj-specs-performance-review.md)
 - [Accessorize Your H2O Audio TRI 2: Smart Add-Ons (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-accessorize-your-h2o-audio-tri-2-smart-add-ons-2026.md)
 - [Top Alternatives to H2O Audio TRI 2: 7 Picks to Consider&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-top-alternatives-to-h2o-audio-tri-2-7-picks-to-consider.md)
