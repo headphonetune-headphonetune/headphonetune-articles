@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [Soundcore AeroFit 2 vs Soundcore AeroClip by: What Changed&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-soundcore-aerofit-2-vs-soundcore-aeroclip-by-what-changed.md)
 - [Best Soundcore AeroFit 2 at the Same Price: 7 Alternatives&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-best-soundcore-aerofit-2-at-the-same-price-7-alternatives.md)
 - [Soundcore AeroFit 2: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-soundcore-aerofit-2-spec-breakdown-2026.md)
 - [Small Upgrades for Your JBL Tune 670NC (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-small-upgrades-for-your-jbl-tune-670nc-2026.md)
