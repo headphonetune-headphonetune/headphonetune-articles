@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [Creative Sound Blaster Alternatives: 5 Picks, Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-creative-sound-blaster-alternatives-5-picks-compared-2026.md)
 - [Creative Sound Blaster: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-creative-sound-blaster-what-the-specs-tell-us.md)
 - [Worth Upgrading? JBL Tune 520C vs XANAD Headphone Case (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-worth-upgrading-jbl-tune-520c-vs-xanad-headphone-case-2026.md)
 - [Best JBL Tune 520C at the Same Price: 5 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-best-jbl-tune-520c-at-the-same-price-5-alternatives-2026.md)
