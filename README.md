@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [6 Underrated Alternatives to JBL Tune 670NC (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-6-underrated-alternatives-to-jbl-tune-670nc-2026.md)
 - [JBL Tune 670NC: Competitive Analysis (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-jbl-tune-670nc-competitive-analysis-2026.md)
 - [5 Essential Accessories for Your Sony WF-C510 Truly (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-5-essential-accessories-for-your-sony-wf-c510-truly-2026.md)
 - [Upgrading From Sony WF-C510 Truly? WC PadZ XM6 Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-upgrading-from-sony-wf-c510-truly-wc-padz-xm6-compared-2026.md)
