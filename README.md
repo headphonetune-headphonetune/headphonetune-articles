@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [Accessorize Your H2O Audio TRI 2: Smart Add-Ons (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-accessorize-your-h2o-audio-tri-2-smart-add-ons-2026.md)
 - [Top Alternatives to H2O Audio TRI 2: 7 Picks to Consider&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-top-alternatives-to-h2o-audio-tri-2-7-picks-to-consider.md)
 - [H2O Audio TRI 2: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-h2o-audio-tri-2-spec-breakdown-2026.md)
 - [Best Value Accessories for Soundcore AeroFit 2 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-best-value-accessories-for-soundcore-aerofit-2-2026.md)
