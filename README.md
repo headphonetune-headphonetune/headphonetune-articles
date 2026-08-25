@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [Other Puro Sound Labs to Consider: 6 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-other-puro-sound-labs-to-consider-6-alternatives-2026.md)
 - [Puro Sound Labs: Does It Deliver? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-puro-sound-labs-does-it-deliver-2026.md)
 
 ### August 24, 2026
