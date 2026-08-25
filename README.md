@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [Wireless Earbuds &amp; Q20i vs SENECESLI LED Display: Lab Tested&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-wireless-earbuds-q20i-vs-senecesli-led-display-lab-tested.md)
 - [JBL Tune 520C: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-jbl-tune-520c-top-features-compared-2026.md)
 - [5 Alternatives That Rival PHILIPS SHS3200BK Flexible (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-5-alternatives-that-rival-philips-shs3200bk-flexible-2026.md)
 - [PHILIPS SHS3200BK Flexible: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-philips-shs3200bk-flexible-features-specs-guide.md)
