@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [Small Upgrades for Your JBL Tune 670NC (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-small-upgrades-for-your-jbl-tune-670nc-2026.md)
 - [Is It Time to Upgrade? JBL Tune 670NC vs DigiCharge Hard&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-is-it-time-to-upgrade-jbl-tune-670nc-vs-digicharge-hard.md)
 - [6 Underrated Alternatives to JBL Tune 670NC (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-6-underrated-alternatives-to-jbl-tune-670nc-2026.md)
 - [JBL Tune 670NC: Competitive Analysis (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-jbl-tune-670nc-competitive-analysis-2026.md)
