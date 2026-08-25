@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [JBL Tune 520C: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-jbl-tune-520c-top-features-compared-2026.md)
 - [5 Alternatives That Rival PHILIPS SHS3200BK Flexible (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-5-alternatives-that-rival-philips-shs3200bk-flexible-2026.md)
 - [PHILIPS SHS3200BK Flexible: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-philips-shs3200bk-flexible-features-specs-guide.md)
 - [5 Essential Accessories for Your OneOdio Wired DJ (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-5-essential-accessories-for-your-oneodio-wired-dj-2026.md)
