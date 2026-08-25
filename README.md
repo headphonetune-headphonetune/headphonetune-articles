@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [Thinking About Sennheiser Professional HD 25? Consider&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-thinking-about-sennheiser-professional-hd-25-consider.md)
 - [Sennheiser Professional HD 25: Practical Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-sennheiser-professional-hd-25-practical-analysis.md)
 - [MEE audio Matrix vs MEE audio Professional MX4: The&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-mee-audio-matrix-vs-mee-audio-professional-mx4-the.md)
 - [Wireless Earbuds &amp; Q20i vs MLF Wireless Earbuds: Reviewed for&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-wireless-earbuds-q20i-vs-mlf-wireless-earbuds-reviewed-for.md)
