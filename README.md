@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [Bluedee PC Speakers: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-bluedee-pc-speakers-features-specs-guide.md)
 - [5 Essential Accessories for Your Creative Sound Blaster (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-5-essential-accessories-for-your-creative-sound-blaster-2026.md)
 - [Great Gifts for Creative Sound Blaster Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-great-gifts-for-creative-sound-blaster-owners-2026.md)
 - [Creative Sound Blaster Alternatives: 5 Picks, Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-creative-sound-blaster-alternatives-5-picks-compared-2026.md)
