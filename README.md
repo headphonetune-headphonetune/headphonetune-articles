@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [Gavhaio New Bone: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-gavhaio-new-bone-what-the-specs-tell-us.md)
 - [5 Must-Have Accessories for Bluedee PC Speakers (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-5-must-have-accessories-for-bluedee-pc-speakers-2026.md)
 - [Skip Bluedee PC Speakers? What Bluedee Bluetooth&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-skip-bluedee-pc-speakers-what-bluedee-bluetooth.md)
 - [Bluedee PC Speakers: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-bluedee-pc-speakers-features-specs-guide.md)
