@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### August 25, 2026
+- [Puro Sound Labs: Does It Deliver? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-puro-sound-labs-does-it-deliver-2026.md)
+
 ### August 24, 2026
 - [5 Essential Accessories for Your Bose QuietComfort Ultra (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-5-essential-accessories-for-your-bose-quietcomfort-ultra-2026.md)
 - [Best Alternatives to Bose QuietComfort Ultra — 5 Similar&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-24-best-alternatives-to-bose-quietcomfort-ultra-5-similar.md)
