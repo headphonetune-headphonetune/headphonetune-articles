@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [Headphones Pick: 1MORE SonoFlow-Pro Noise (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-headphones-pick-1more-sonoflow-pro-noise-2026.md)
 - [Q20i vs ANCAMITA Hybrid Active: Which Wireless Earbuds Win?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-q20i-vs-ancamita-hybrid-active-which-wireless-earbuds-win.md)
 - [Top Add-Ons for Gavhaio New Bone: What to Buy Together (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-top-add-ons-for-gavhaio-new-bone-what-to-buy-together-2026.md)
 - [Gavhaio New Bone: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-gavhaio-new-bone-what-the-specs-tell-us.md)
