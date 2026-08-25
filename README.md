@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [Worth Upgrading? JBL Tune 520C vs XANAD Headphone Case (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-worth-upgrading-jbl-tune-520c-vs-xanad-headphone-case-2026.md)
 - [Best JBL Tune 520C at the Same Price: 5 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-best-jbl-tune-520c-at-the-same-price-5-alternatives-2026.md)
 - [Wireless Earbuds &amp; Q20i vs SENECESLI LED Display: Lab Tested&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-wireless-earbuds-q20i-vs-senecesli-led-display-lab-tested.md)
 - [JBL Tune 520C: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-jbl-tune-520c-top-features-compared-2026.md)
