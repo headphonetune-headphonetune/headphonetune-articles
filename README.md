@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 25, 2026
+- [Should You Upgrade to 1MORE S70 Open? 1MORE SonoFlow-Pro&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-should-you-upgrade-to-1more-s70-open-1more-sonoflow-pro.md)
 - [Other 1MORE SonoFlow-Pro Noise to Consider: 7 Alternatives&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-other-1more-sonoflow-pro-noise-to-consider-7-alternatives.md)
 - [Headphones Pick: 1MORE SonoFlow-Pro Noise (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-headphones-pick-1more-sonoflow-pro-noise-2026.md)
 - [Q20i vs ANCAMITA Hybrid Active: Which Wireless Earbuds Win?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-25-q20i-vs-ancamita-hybrid-active-which-wireless-earbuds-win.md)
