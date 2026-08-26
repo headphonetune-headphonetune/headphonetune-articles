@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 26, 2026
+- [SunoFi Hybrid Active: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-sunofi-hybrid-active-what-the-specs-tell-us.md)
 - [Should You Buy Sarevile Bluetooth Headset or Sarevile&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-should-you-buy-sarevile-bluetooth-headset-or-sarevile.md)
 - [Looking for Sarevile Bluetooth Headset Alternatives? 5 Top&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-looking-for-sarevile-bluetooth-headset-alternatives-5-top.md)
 - [Sarevile Bluetooth Headset &#8211; Headphones Review (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-sarevile-bluetooth-headset-headphones-review-2026.md)
