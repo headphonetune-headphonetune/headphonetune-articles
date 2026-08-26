@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 26, 2026
+- [Is Floriogra 12 Pack the Best Upgrade for Monster AC317&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-is-floriogra-12-pack-the-best-upgrade-for-monster-ac317.md)
 - [Monster AC317 Open: A Detailed Spec Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-monster-ac317-open-a-detailed-spec-analysis.md)
 - [Is Retekess TA003 Silent the Best Upgrade for Retekess&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-is-retekess-ta003-silent-the-best-upgrade-for-retekess.md)
 - [Alternatives to Retekess TA003 Silent: 6 Similar Products&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-alternatives-to-retekess-ta003-silent-6-similar-products.md)
