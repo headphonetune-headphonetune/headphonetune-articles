@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 26, 2026
+- [Skullcandy Method 540: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-skullcandy-method-540-is-it-worth-it-2026.md)
 - [Best Accessories for UGREEN HiTune Max5c: Top Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-best-accessories-for-ugreen-hitune-max5c-top-picks-2026.md)
 - [Is UGREEN 2 Pack the Best Upgrade for UGREEN HiTune Max5c?&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-is-ugreen-2-pack-the-best-upgrade-for-ugreen-hitune-max5c.md)
 - [Other UGREEN HiTune Max5c to Consider: 7 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-other-ugreen-hitune-max5c-to-consider-7-alternatives-2026.md)
