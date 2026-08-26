@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 26, 2026
+- [UGREEN HiTune Max5c: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-ugreen-hitune-max5c-spec-breakdown-2026.md)
 - [Beyerdynamic DT 990 Review: Still Worth It in 2026?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-beyerdynamic-dt-990-review-still-worth-it-in-2026.md)
 - [ThinkWrite Technologies TWT to ThinkWrite Technologies /&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-thinkwrite-technologies-twt-to-thinkwrite-technologies.md)
 - [Thinking About ThinkWrite Technologies TWT? Consider These&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-thinking-about-thinkwrite-technologies-twt-consider-these.md)
