@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 26, 2026
+- [Pupabiflor Bone Conduction: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-pupabiflor-bone-conduction-features-specs-guide.md)
 - [5 Essential Accessories for Your Sony INZONE H3 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-5-essential-accessories-for-your-sony-inzone-h3-2026.md)
 - [Sony INZONE H3: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-sony-inzone-h3-spec-breakdown-2026.md)
 - [Is It Time to Upgrade? Bose Ultra Open vs Akkiv&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-is-it-time-to-upgrade-bose-ultra-open-vs-akkiv.md)
