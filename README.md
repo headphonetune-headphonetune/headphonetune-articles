@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 26, 2026
+- [5 Alternatives to Bose SoundSport Worth a Look (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-5-alternatives-to-bose-soundsport-worth-a-look-2026.md)
 - [Headphones Pick: Bose SoundSport (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-headphones-pick-bose-soundsport-2026.md)
 - [What to Buy With Pupabiflor Bone Conduction: 5 Essentials&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-what-to-buy-with-pupabiflor-bone-conduction-5-essentials.md)
 - [Wireless Earbuds &amp; Q20i vs Soundcore AeroFit 2: Right for You?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-wireless-earbuds-q20i-vs-soundcore-aerofit-2-right-for-you.md)
