@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 27, 2026
+- [The 2026 Sennheiser HD600 Upgrade Guide: Essential Accessories](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-the-2026-sennheiser-hd600-upgrade-guide-essential-accessories.md)
 - [Upgrade Your JBL Live 770NC: Accessories Worth It (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-upgrade-your-jbl-live-770nc-accessories-worth-it-2026.md)
 - [Best JBL Live 770NC at the Same Price: 7 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-best-jbl-live-770nc-at-the-same-price-7-alternatives-2026.md)
 - [JBL Live 770NC: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-jbl-live-770nc-spec-breakdown-2026.md)
