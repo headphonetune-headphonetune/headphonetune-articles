@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 27, 2026
+- [Upgrade Your JKNKCO E12 Bone: Accessories Worth It (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-upgrade-your-jknkco-e12-bone-accessories-worth-it-2026.md)
 - [JKNKCO E12 Bone vs JKNKCO MS128 Adaptive: The Numbers&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-jknkco-e12-bone-vs-jknkco-ms128-adaptive-the-numbers.md)
 - [JKNKCO E12 Bone: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-jknkco-e12-bone-spec-breakdown-2026.md)
 - [5 Essential Accessories for Your JBL Live 670NC (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-5-essential-accessories-for-your-jbl-live-670nc-2026.md)
