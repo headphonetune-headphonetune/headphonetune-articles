@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### August 27, 2026
+- [Bose QuietComfort Earbuds: Right for Your Needs?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-bose-quietcomfort-earbuds-right-for-your-needs.md)
+
 ### August 26, 2026
 - [Do Not Skip These Wentronic Y01 Wireless Accessories (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-do-not-skip-these-wentronic-y01-wireless-accessories-2026.md)
 - [Alternatives to Wentronic Y01 Wireless: 6 Similar Products&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-26-alternatives-to-wentronic-y01-wireless-6-similar-products.md)
