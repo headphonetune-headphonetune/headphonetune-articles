@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 27, 2026
+- [Swap It: 6 Alternatives to JBL Live 670NC Worth&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-swap-it-6-alternatives-to-jbl-live-670nc-worth.md)
 - [JBL Live 670NC: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-jbl-live-670nc-top-features-compared-2026.md)
 - [5 Essential Accessories for Your BUGANI Bluetooth Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-5-essential-accessories-for-your-bugani-bluetooth-headphones-2026.md)
 - [BUGANI Bluetooth Headphones Accessories for New Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-bugani-bluetooth-headphones-accessories-for-new-owners-2026.md)
