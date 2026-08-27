@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 27, 2026
+- [JBL Live 770NC: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-jbl-live-770nc-spec-breakdown-2026.md)
 - [Garrulax USB Essentials: What to Grab First (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-garrulax-usb-essentials-what-to-grab-first-2026.md)
 - [Garrulax USB: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-garrulax-usb-what-the-specs-tell-us.md)
 - [MEE audio KidJamz KJ55 vs Rulbo: Should You Upgrade? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-mee-audio-kidjamz-kj55-vs-rulbo-should-you-upgrade-2026.md)
