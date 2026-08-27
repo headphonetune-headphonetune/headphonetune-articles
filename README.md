@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 27, 2026
+- [Garrulax USB: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-garrulax-usb-what-the-specs-tell-us.md)
 - [MEE audio KidJamz KJ55 vs Rulbo: Should You Upgrade? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-mee-audio-kidjamz-kj55-vs-rulbo-should-you-upgrade-2026.md)
 - [Alternatives to MEE audio KidJamz KJ55: 7 Similar Products&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-alternatives-to-mee-audio-kidjamz-kj55-7-similar-products.md)
 - [Top MEE audio KidJamz KJ55 for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-top-mee-audio-kidjamz-kj55-for-headphones-2026.md)
