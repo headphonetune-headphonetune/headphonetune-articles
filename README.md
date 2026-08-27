@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 27, 2026
+- [BUGANI Bluetooth Headphones: A Detailed Spec Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-bugani-bluetooth-headphones-a-detailed-spec-analysis.md)
 - [GNMN Active Noise Buyer&#8217;s Checklist: Everything You Need&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-gnmn-active-noise-buyers-checklist-everything-you-need.md)
 - [5 Alternatives to GNMN Active Noise That Are Worth It (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-5-alternatives-to-gnmn-active-noise-that-are-worth-it-2026.md)
 - [Should You Buy Wireless Earbuds &amp; Q20i or QCY MeloBuds N20?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-should-you-buy-wireless-earbuds-q20i-or-qcy-melobuds-n20.md)
