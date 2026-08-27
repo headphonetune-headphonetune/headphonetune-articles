@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 27, 2026
+- [The Skullcandy Crusher 720 Starter Pack: What to Order&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-the-skullcandy-crusher-720-starter-pack-what-to-order.md)
 - [Skullcandy Crusher 720 vs Skullcandy Method 540: The&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-skullcandy-crusher-720-vs-skullcandy-method-540-the.md)
 - [Skullcandy Crusher 720: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-skullcandy-crusher-720-breaking-down-the-specs.md)
 - [The 2026 Sennheiser HD600 Upgrade Guide: Essential Accessories](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-the-2026-sennheiser-hd600-upgrade-guide-essential-accessories.md)
