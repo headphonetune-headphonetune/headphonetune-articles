@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### August 28, 2026
+- [Picun F8 Pro: Competitive Analysis (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-picun-f8-pro-competitive-analysis-2026.md)
+
 ### August 27, 2026
 - [5 Essential Accessories for Your Oraolo Open Ear AC225 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-5-essential-accessories-for-your-oraolo-open-ear-ac225-2026.md)
 - [Don&#8217;t Forget These: Oraolo Open Ear AC225 Accessories (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-27-dont-forget-these-oraolo-open-ear-ac225-accessories-2026.md)
