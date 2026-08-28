@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 28, 2026
+- [Skullcandy Icon 180: Right for Your Needs?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-skullcandy-icon-180-right-for-your-needs.md)
 - [Voopwink USB Type Accessories for New Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-voopwink-usb-type-accessories-for-new-owners-2026.md)
 - [Voopwink USB Type: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-voopwink-usb-type-breaking-down-the-specs.md)
 - [BlueAnt Pump X Accessories That Last: Quality Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-blueant-pump-x-accessories-that-last-quality-picks-2026.md)
