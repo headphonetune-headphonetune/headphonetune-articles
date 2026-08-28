@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 28, 2026
+- [Top Upgrade Choice: Skullcandy Icon 180 or SOULWIT&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-top-upgrade-choice-skullcandy-icon-180-or-soulwit.md)
 - [Skullcandy Icon 180: Right for Your Needs?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-skullcandy-icon-180-right-for-your-needs.md)
 - [Voopwink USB Type Accessories for New Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-voopwink-usb-type-accessories-for-new-owners-2026.md)
 - [Voopwink USB Type: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-voopwink-usb-type-breaking-down-the-specs.md)
