@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 28, 2026
+- [Voopwink USB Type: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-voopwink-usb-type-breaking-down-the-specs.md)
 - [BlueAnt Pump X Accessories That Last: Quality Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-blueant-pump-x-accessories-that-last-quality-picks-2026.md)
 - [Pick a Winner: 5 Alternatives to BlueAnt Pump X (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-pick-a-winner-5-alternatives-to-blueant-pump-x-2026.md)
 - [BlueAnt Pump X: Right for Your Needs?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-blueant-pump-x-right-for-your-needs.md)
