@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 28, 2026
+- [WASCLEWAY USB-C Headphones: A Detailed Spec Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-wascleway-usb-c-headphones-a-detailed-spec-analysis.md)
 - [Small Upgrades for Your JBL Tune 510BT (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-small-upgrades-for-your-jbl-tune-510bt-2026.md)
 - [What to Get Instead of JBL Tune 510BT: 5 Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-what-to-get-instead-of-jbl-tune-510bt-5-picks-2026.md)
 - [JBL Tune 510BT: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-jbl-tune-510bt-top-features-compared-2026.md)
