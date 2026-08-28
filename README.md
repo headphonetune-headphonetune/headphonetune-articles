@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 28, 2026
+- [6 Alternatives to Picun F8 Pro Worth a Look (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-6-alternatives-to-picun-f8-pro-worth-a-look-2026.md)
 - [Picun F8 Pro: Competitive Analysis (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-picun-f8-pro-competitive-analysis-2026.md)
 
 ### August 27, 2026
