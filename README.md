@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 28, 2026
+- [JBL Tune 510BT: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-jbl-tune-510bt-top-features-compared-2026.md)
 - [Level Up Your Picun F8 Pro: 5 Accessories (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-level-up-your-picun-f8-pro-5-accessories-2026.md)
 - [Picun F8 Pro or Comecase Headphone Case? A Detailed&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-picun-f8-pro-or-comecase-headphone-case-a-detailed.md)
 - [6 Alternatives to Picun F8 Pro Worth a Look (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-6-alternatives-to-picun-f8-pro-worth-a-look-2026.md)
