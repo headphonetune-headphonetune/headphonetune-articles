@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 28, 2026
+- [Paekole Ultra Open: Practical Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-paekole-ultra-open-practical-analysis.md)
 - [What Else Is Like Acjohtin Sleep Earbuds? 7 Alternatives&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-what-else-is-like-acjohtin-sleep-earbuds-7-alternatives.md)
 - [Acjohtin Sleep Earbuds: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-acjohtin-sleep-earbuds-features-specs-guide.md)
 - [The MEE audio Connect Add-On Checklist: 5 Essentials (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-the-mee-audio-connect-add-on-checklist-5-essentials-2026.md)
