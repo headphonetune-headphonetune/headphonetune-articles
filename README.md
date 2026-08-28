@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 28, 2026
+- [Worth Upgrading? Monster Mission 100 vs Monster Open Touch&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-worth-upgrading-monster-mission-100-vs-monster-open-touch.md)
 - [Monster Mission 100: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-monster-mission-100-what-the-specs-tell-us.md)
 - [5 Essential Accessories for Your WASCLEWAY USB-C Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-5-essential-accessories-for-your-wascleway-usb-c-headphones-2026.md)
 - [WASCLEWAY USB-C Headphones Accessories for New Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-wascleway-usb-c-headphones-accessories-for-new-owners-2026.md)
