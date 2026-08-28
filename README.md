@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 28, 2026
+- [Bose QuietComfort 2026: Every Key Feature Compared Simply](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-bose-quietcomfort-2026-every-key-feature-compared-simply.md)
 - [5 Essential Accessories for Your Paekole Ultra Open (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-5-essential-accessories-for-your-paekole-ultra-open-2026.md)
 - [Paekole Ultra Open Setup: Essential Accessories &amp; Add-Ons&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-paekole-ultra-open-setup-essential-accessories-add-ons.md)
 - [Paekole Ultra Open: Practical Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-paekole-ultra-open-practical-analysis.md)
