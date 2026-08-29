@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 29, 2026
+- [eKids Disney Frozen 2: Right for Your Needs?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-ekids-disney-frozen-2-right-for-your-needs.md)
 - [5 Essential Accessories for Your Kalence 2025 AM/FM (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-5-essential-accessories-for-your-kalence-2025-am-fm-2026.md)
 - [The Kalence 2025 AM/FM Add-On Checklist: 5 Essentials (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-the-kalence-2025-am-fm-add-on-checklist-5-essentials-2026.md)
 - [Kalence 2025 AM/FM: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-kalence-2025-am-fm-is-it-worth-it-2026.md)
