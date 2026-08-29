@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 29, 2026
+- [BLXSounds Wired Earbuds: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-blxsounds-wired-earbuds-spec-breakdown-2026.md)
 - [What to Buy With Acer OHW328 Kids: 5 Essentials (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-what-to-buy-with-acer-ohw328-kids-5-essentials-2026.md)
 - [Wireless Earbuds &amp; Q20i vs Riwbox Hybrid Active: Headphones&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-wireless-earbuds-q20i-vs-riwbox-hybrid-active-headphones.md)
 - [Acer OHW328 Kids: Key Specs &amp; Value (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-acer-ohw328-kids-key-specs-value-2026.md)
