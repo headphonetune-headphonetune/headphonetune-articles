@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 29, 2026
+- [iClever BTH12 Kids: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-iclever-bth12-kids-breaking-down-the-specs.md)
 - [5 Essential Accessories for Your iClever Kids Wired (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-5-essential-accessories-for-your-iclever-kids-wired-2026.md)
 - [Top Add-Ons for iClever Kids Wired: What to Buy Together&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-top-add-ons-for-iclever-kids-wired-what-to-buy-together.md)
 - [Best iClever Kids Wired at the Same Price: 5 Alternatives&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-best-iclever-kids-wired-at-the-same-price-5-alternatives.md)
