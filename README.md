@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 29, 2026
+- [BORAYDA 2-Pack Sleeping vs BORAYDA Bluetooth Beanie: Which&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-borayda-2-pack-sleeping-vs-borayda-bluetooth-beanie-which.md)
 - [BORAYDA 2-Pack Sleeping: What to Know Before Buying](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-borayda-2-pack-sleeping-what-to-know-before-buying.md)
 - [Skullcandy Crusher 720 Starter Pack: What to Order First](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-skullcandy-crusher-720-starter-pack-what-to-order-first.md)
 - [Best Value Accessories for YINYOO KZ ZS10 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-best-value-accessories-for-yinyoo-kz-zs10-2026.md)
