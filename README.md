@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 29, 2026
+- [Skullcandy Crusher 720 Starter Pack: What to Order First](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-skullcandy-crusher-720-starter-pack-what-to-order-first.md)
 - [Best Value Accessories for YINYOO KZ ZS10 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-best-value-accessories-for-yinyoo-kz-zs10-2026.md)
 - [YINYOO KZ ZS10 vs YINYOO 1PCS KBEAR BP01: The Upgrade&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-yinyoo-kz-zs10-vs-yinyoo-1pcs-kbear-bp01-the-upgrade.md)
 - [Top YINYOO KZ ZS10 for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-top-yinyoo-kz-zs10-for-headphones-2026.md)
