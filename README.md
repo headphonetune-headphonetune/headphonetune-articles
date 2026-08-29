@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 29, 2026
+- [The Kalence 2025 AM/FM Add-On Checklist: 5 Essentials (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-the-kalence-2025-am-fm-add-on-checklist-5-essentials-2026.md)
 - [Kalence 2025 AM/FM: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-kalence-2025-am-fm-is-it-worth-it-2026.md)
 - [Not Sure About PROHEAR 033 AM? Check These 5 Similar&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-not-sure-about-prohear-033-am-check-these-5-similar.md)
 - [PROHEAR 033 AM: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-prohear-033-am-specs-performance-review.md)
