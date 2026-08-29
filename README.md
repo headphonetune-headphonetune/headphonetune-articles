@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### August 29, 2026
+- [Top Puro Sound Labs for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-29-top-puro-sound-labs-for-headphones-2026.md)
+
 ### August 28, 2026
 - [5 Essential Accessories for Your iClever HS22 2 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-5-essential-accessories-for-your-iclever-hs22-2-2026.md)
 - [Upgrading From iClever HS22 2? iClever Noise Cancelling&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-28-upgrading-from-iclever-hs22-2-iclever-noise-cancelling.md)
