@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 30, 2026
+- [A+ Scholars Kids vs Kshttky Clip On: Is the Upgrade Worth&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-30-a-scholars-kids-vs-kshttky-clip-on-is-the-upgrade-worth.md)
 - [Wireless Earbuds &amp; Q20i vs YY KATTY Upgraded: Which to Pick?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-30-wireless-earbuds-q20i-vs-yy-katty-upgraded-which-to-pick.md)
 - [A+ Scholars Kids: Evaluating the Features](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-30-a-scholars-kids-evaluating-the-features.md)
 - [CMF BY NOTHING Accessories That Last: Quality Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-30-cmf-by-nothing-accessories-that-last-quality-picks-2026.md)
