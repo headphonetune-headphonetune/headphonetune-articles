@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 30, 2026
+- [Douk Audio U3: Evaluating the Features](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-30-douk-audio-u3-evaluating-the-features.md)
 - [What to Buy With Wentronic Y05 Wireless: 5 Essentials (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-30-what-to-buy-with-wentronic-y05-wireless-5-essentials-2026.md)
 - [Wentronic Y05 Wireless: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-30-wentronic-y05-wireless-spec-focused-overview.md)
 - [Level Up Your MIDOLA Wired Kids: 5 Accessories (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-30-level-up-your-midola-wired-kids-5-accessories-2026.md)
