@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 30, 2026
+- [QYNIQIAN Neckband Bluetooth Setup: Essential Accessories &amp;&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-30-qyniqian-neckband-bluetooth-setup-essential-accessories.md)
 - [QYNIQIAN Neckband Bluetooth vs the Competition: 6&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-30-qyniqian-neckband-bluetooth-vs-the-competition-6.md)
 - [QYNIQIAN Neckband Bluetooth: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-30-qyniqian-neckband-bluetooth-spec-focused-overview.md)
 - [Skullcandy Crusher ANC 2 vs SLYR Pro: Which Headset Wins?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-30-skullcandy-crusher-anc-2-vs-slyr-pro-which-headset-wins.md)
