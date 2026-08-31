@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 31, 2026
+- [Swap It: 7 Alternatives to COOSII AC01 Headphones Worth&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-swap-it-7-alternatives-to-coosii-ac01-headphones-worth.md)
 - [COOSII AC01 Headphones: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-coosii-ac01-headphones-specs-performance-review.md)
 - [Pair These Accessories With BUGANI Open Ear (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-pair-these-accessories-with-bugani-open-ear-2026.md)
 - [BUGANI Open Ear vs BUGANI Open Ear: What Changed (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-bugani-open-ear-vs-bugani-open-ear-what-changed-2026.md)
