@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### August 31, 2026
+- [Douk Audio U3: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-douk-audio-u3-spec-breakdown-2026.md)
+
 ### August 30, 2026
 - [5 Essential Accessories for Your Rulbo (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-30-5-essential-accessories-for-your-rulbo-2026.md)
 - [Great Gifts for Rulbo Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-30-great-gifts-for-rulbo-owners-2026.md)
