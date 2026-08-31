@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 31, 2026
+- [BUGANI Open Ear: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-bugani-open-ear-specs-performance-review.md)
 - [5 Essential Accessories for Your DANFI AUDIO DF (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-5-essential-accessories-for-your-danfi-audio-df-2026.md)
 - [What to Buy With Your DANFI AUDIO DF: Complete Checklist&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-what-to-buy-with-your-danfi-audio-df-complete-checklist.md)
 - [DANFI AUDIO DF vs DANFI AUDIO DF: What Changed (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-danfi-audio-df-vs-danfi-audio-df-what-changed-2026.md)
