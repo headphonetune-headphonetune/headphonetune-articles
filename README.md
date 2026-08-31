@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 31, 2026
+- [Top Upgrade Choice: Bywulanda USB Type or Bywulanda USB C?&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-top-upgrade-choice-bywulanda-usb-type-or-bywulanda-usb-c.md)
 - [Bywulanda USB Type: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-bywulanda-usb-type-what-the-specs-tell-us.md)
 - [Oraolo N-Tune MINI 01 vs Oraolo Open Ear AC225&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-oraolo-n-tune-mini-01-vs-oraolo-open-ear-ac225.md)
 - [Oraolo N-Tune MINI 01: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-oraolo-n-tune-mini-01-top-features-compared-2026.md)
