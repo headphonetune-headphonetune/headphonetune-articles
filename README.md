@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 31, 2026
+- [Don&#8217;t Forget These: Douk Audio U3 Accessories (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-dont-forget-these-douk-audio-u3-accessories-2026.md)
 - [Should You Upgrade to Douk Audio Tube? Douk Audio U3 vs&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-should-you-upgrade-to-douk-audio-tube-douk-audio-u3-vs.md)
 - [Thinking About Douk Audio U3? Consider These 7 Instead (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-thinking-about-douk-audio-u3-consider-these-7-instead-2026.md)
 - [Douk Audio U3: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-douk-audio-u3-spec-breakdown-2026.md)
