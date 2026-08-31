@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 31, 2026
+- [SoundMAGIC P23BT Portable vs SoundMAGIC T60BT True: Which&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-soundmagic-p23bt-portable-vs-soundmagic-t60bt-true-which.md)
 - [Looking for SoundMAGIC P23BT Portable Alternatives? 6 Top&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-looking-for-soundmagic-p23bt-portable-alternatives-6-top.md)
 - [SoundMAGIC P23BT Portable: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-soundmagic-p23bt-portable-specs-performance-review.md)
 - [Top Add-Ons for LYPERTEK SoundFree S30: What to Buy&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-top-add-ons-for-lypertek-soundfree-s30-what-to-buy.md)
