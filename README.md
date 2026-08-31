@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 31, 2026
+- [Earbay Wireless Headphones: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-earbay-wireless-headphones-spec-breakdown-2026.md)
 - [Btootos Wireless Earbuds: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-btootos-wireless-earbuds-features-specs-guide.md)
 - [Don&#8217;t Forget These: Douk Audio U3 Accessories (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-dont-forget-these-douk-audio-u3-accessories-2026.md)
 - [Should You Upgrade to Douk Audio Tube? Douk Audio U3 vs&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-should-you-upgrade-to-douk-audio-tube-douk-audio-u3-vs.md)
