@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### August 31, 2026
+- [Small Upgrades for Your myFirst Kids Wired (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-small-upgrades-for-your-myfirst-kids-wired-2026.md)
 - [myFirst Kids Wired: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-myfirst-kids-wired-top-features-compared-2026.md)
 - [Crusher 720 2026: 5 Must-Have Accessories You’ll Actually Use](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-crusher-720-2026-5-must-have-accessories-youll-actually-use.md)
 - [5 Essential Accessories for Your COOSII AC01 Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-5-essential-accessories-for-your-coosii-ac01-headphones-2026.md)
