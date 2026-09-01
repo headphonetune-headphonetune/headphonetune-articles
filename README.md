@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 1, 2026
+- [Level Up Your Aechorhy Wired Over: 5 Accessories (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-level-up-your-aechorhy-wired-over-5-accessories-2026.md)
 - [Aechorhy Wired Over: Practical Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-aechorhy-wired-over-practical-analysis.md)
 
 ### August 31, 2026
