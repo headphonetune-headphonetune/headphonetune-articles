@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 1, 2026
+- [Rulbo: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-rulbo-spec-breakdown-2026.md)
 - [Pair These Accessories With GTaiTia Karaoke Sound (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-pair-these-accessories-with-gtaitia-karaoke-sound-2026.md)
 - [Other GTaiTia Karaoke Sound to Consider: 6 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-other-gtaitia-karaoke-sound-to-consider-6-alternatives-2026.md)
 - [Top GTaiTia Karaoke Sound for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-top-gtaitia-karaoke-sound-for-headphones-2026.md)
