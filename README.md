@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 1, 2026
+- [Silent Sound System vs Retekess TA003 Silent: The Numbers&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-silent-sound-system-vs-retekess-ta003-silent-the-numbers.md)
 - [Silent Sound System Alternatives: 7 Picks, Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-silent-sound-system-alternatives-7-picks-compared-2026.md)
 - [Silent Sound System: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-silent-sound-system-features-specs-guide.md)
 - [5 Essential Accessories for Your JBL Tune 780NC (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-5-essential-accessories-for-your-jbl-tune-780nc-2026.md)
