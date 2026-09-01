@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 1, 2026
+- [Sennheiser Pro Audio: What to Know Before Buying](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-sennheiser-pro-audio-what-to-know-before-buying.md)
 - [Upgrade Your Mudtun Sleep Earbuds: Accessories Worth It (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-upgrade-your-mudtun-sleep-earbuds-accessories-worth-it-2026.md)
 - [Mudtun Sleep Earbuds vs Mudtun 2026 New: 5 Things to&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-mudtun-sleep-earbuds-vs-mudtun-2026-new-5-things-to.md)
 - [Alternatives to Mudtun Sleep Earbuds: 7 Similar Products&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-alternatives-to-mudtun-sleep-earbuds-7-similar-products.md)
