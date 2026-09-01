@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### September 1, 2026
+- [Aechorhy Wired Over: Practical Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-aechorhy-wired-over-practical-analysis.md)
+
 ### August 31, 2026
 - [What to Buy With iKF R2 Retro: 5 Essentials (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-what-to-buy-with-ikf-r2-retro-5-essentials-2026.md)
 - [5 Alternatives to iKF R2 Retro Worth a Look (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-08-31-5-alternatives-to-ikf-r2-retro-worth-a-look-2026.md)
