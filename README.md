@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 1, 2026
+- [Silent Sound System: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-silent-sound-system-features-specs-guide.md)
 - [5 Essential Accessories for Your JBL Tune 780NC (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-5-essential-accessories-for-your-jbl-tune-780nc-2026.md)
 - [Headphones Pick: JBL Tune 780NC (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-headphones-pick-jbl-tune-780nc-2026.md)
 - [Q20i vs YOOZER Go ANC: Which Wireless Earbuds Win?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-q20i-vs-yoozer-go-anc-which-wireless-earbuds-win.md)
