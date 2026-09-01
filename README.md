@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 1, 2026
+- [What to Buy With Your phoie USB-C to 3.5mm: Complete&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-what-to-buy-with-your-phoie-usb-c-to-3-5mm-complete.md)
 - [Wireless Earbuds &amp; Q20i vs JBL Sense Lite: Specs Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-wireless-earbuds-q20i-vs-jbl-sense-lite-specs-compared-2026.md)
 - [phoie USB-C to 3.5mm: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-phoie-usb-c-to-3-5mm-features-specs-guide.md)
 - [Don&#8217;t Forget These: CMF BY Nothing Accessories (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-dont-forget-these-cmf-by-nothing-accessories-2026.md)
