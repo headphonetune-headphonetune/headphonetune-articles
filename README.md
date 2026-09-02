@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 2, 2026
+- [Skullcandy Crusher Evo vs Skullcandy Aviator 900: 5 Things&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-skullcandy-crusher-evo-vs-skullcandy-aviator-900-5-things.md)
 - [Skip Skullcandy Crusher Evo? Try These 7 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-skip-skullcandy-crusher-evo-try-these-7-alternatives-2026.md)
 - [Skullcandy Crusher Evo: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-skullcandy-crusher-evo-spec-focused-overview.md)
 - [Status Between 3ANC Setup: Essential Accessories &amp; Add-Ons&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-status-between-3anc-setup-essential-accessories-add-ons.md)
