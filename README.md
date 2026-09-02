@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 2, 2026
+- [JBL Tune 510BT: Does It Deliver? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-jbl-tune-510bt-does-it-deliver-2026.md)
 - [Audio-Technica ATH-R50X Open-Back Buyer&#8217;s Checklist&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-audio-technica-ath-r50x-open-back-buyers-checklist.md)
 - [Audio-Technica ATH-R50X Open-Back Alternatives: 6 Better&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-audio-technica-ath-r50x-open-back-alternatives-6-better.md)
 - [Audio-Technica ATH-R50X Open-Back: Right for Your Needs?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-audio-technica-ath-r50x-open-back-right-for-your-needs.md)
