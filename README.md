@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 2, 2026
+- [Bose SoundSport Wireless: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-bose-soundsport-wireless-features-specs-guide.md)
 - [Wireless Earbuds &amp; Q20i vs TOZO NC3 Hybrid: Which Headphones&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-wireless-earbuds-q20i-vs-tozo-nc3-hybrid-which-headphones.md)
 - [JBL Tune 510BT: Does It Deliver? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-jbl-tune-510bt-does-it-deliver-2026.md)
 - [Audio-Technica ATH-R50X Open-Back Buyer&#8217;s Checklist&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-audio-technica-ath-r50x-open-back-buyers-checklist.md)
