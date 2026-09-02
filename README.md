@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 2, 2026
+- [Jamsync Open Ear vs the Competition: 6 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-jamsync-open-ear-vs-the-competition-6-alternatives-2026.md)
 - [Jamsync Open Ear: Key Specs &amp; Value (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-jamsync-open-ear-key-specs-value-2026.md)
 
 ### September 1, 2026
