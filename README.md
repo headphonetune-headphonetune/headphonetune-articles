@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 2, 2026
+- [Dekoni Audio Omega or Dekoni Audio Bulletz? A Detailed&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-dekoni-audio-omega-or-dekoni-audio-bulletz-a-detailed.md)
 - [Wireless Earbuds &amp; Q20i vs PWTEK Wireless Earbuds: Side-by-Sid&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-wireless-earbuds-q20i-vs-pwtek-wireless-earbuds-side-by-sid.md)
 - [Dekoni Audio Omega: Key Specs &amp; Value (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-dekoni-audio-omega-key-specs-value-2026.md)
 - [5 Essential Accessories for Your Skullcandy Rail ANC (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-5-essential-accessories-for-your-skullcandy-rail-anc-2026.md)
