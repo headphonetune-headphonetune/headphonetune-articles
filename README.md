@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 2, 2026
+- [Razer BlackShark V3 vs ERAZERL NE86 Open: Spec-by-Spec&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-razer-blackshark-v3-vs-erazerl-ne86-open-spec-by-spec.md)
 - [Top Razer BlackShark V3 for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-top-razer-blackshark-v3-for-headphones-2026.md)
 - [What to Buy With Jamsync Open Ear: 5 Essentials (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-what-to-buy-with-jamsync-open-ear-5-essentials-2026.md)
 - [Jamsync Open Ear vs the Competition: 6 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-jamsync-open-ear-vs-the-competition-6-alternatives-2026.md)
