@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### September 2, 2026
+- [Jamsync Open Ear: Key Specs &amp; Value (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-jamsync-open-ear-key-specs-value-2026.md)
+
 ### September 1, 2026
 - [Don&#8217;t Forget These: Silent Sound System Accessories (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-dont-forget-these-silent-sound-system-accessories-2026.md)
 - [Silent Sound System vs Retekess TA003 Silent: The Numbers&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-01-silent-sound-system-vs-retekess-ta003-silent-the-numbers.md)
