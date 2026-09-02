@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 2, 2026
+- [Accessorize Your bmani Ear Buds: Smart Add-Ons (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-accessorize-your-bmani-ear-buds-smart-add-ons-2026.md)
 - [Best bmani Ear Buds at the Same Price: 7 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-best-bmani-ear-buds-at-the-same-price-7-alternatives-2026.md)
 - [bmani Ear Buds: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-bmani-ear-buds-top-features-compared-2026.md)
 - [5 Essential Accessories for Your Gankoii Wireless Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-5-essential-accessories-for-your-gankoii-wireless-headphones-2026.md)
