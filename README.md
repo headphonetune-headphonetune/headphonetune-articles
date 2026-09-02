@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 2, 2026
+- [Bose SoundSport Wireless Essentials: What to Grab First (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-bose-soundsport-wireless-essentials-what-to-grab-first-2026.md)
 - [Bose SoundSport Wireless Alternatives: 6 Better Options (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-bose-soundsport-wireless-alternatives-6-better-options-2026.md)
 - [Bose SoundSport Wireless: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-bose-soundsport-wireless-features-specs-guide.md)
 - [Wireless Earbuds &amp; Q20i vs TOZO NC3 Hybrid: Which Headphones&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-wireless-earbuds-q20i-vs-tozo-nc3-hybrid-which-headphones.md)
