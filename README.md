@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 2, 2026
+- [Skullcandy Crusher Evo: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-skullcandy-crusher-evo-spec-focused-overview.md)
 - [Status Between 3ANC Setup: Essential Accessories &amp; Add-Ons&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-status-between-3anc-setup-essential-accessories-add-ons.md)
 - [Skip Status Between 3ANC? What Status Audio Silicone&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-skip-status-between-3anc-what-status-audio-silicone.md)
 - [What Else Is Like Status Between 3ANC? 6 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-what-else-is-like-status-between-3anc-6-alternatives-2026.md)
