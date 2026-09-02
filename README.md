@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 2, 2026
+- [LUDOS Ultra Wired Alternatives: What to Consider Instead&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-ludos-ultra-wired-alternatives-what-to-consider-instead.md)
 - [LUDOS Ultra Wired &#8211; Headphones Review (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-ludos-ultra-wired-headphones-review-2026.md)
 - [Great Gifts for Razer BlackShark V3 Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-great-gifts-for-razer-blackshark-v3-owners-2026.md)
 - [Razer BlackShark V3 vs ERAZERL NE86 Open: Spec-by-Spec&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-razer-blackshark-v3-vs-erazerl-ne86-open-spec-by-spec.md)
