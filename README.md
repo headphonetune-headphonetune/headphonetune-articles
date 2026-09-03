@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 3, 2026
+- [Piluyaa Open Ear vs Piluyaa Open Ear: Which Wins in 2026?&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-piluyaa-open-ear-vs-piluyaa-open-ear-which-wins-in-2026.md)
 - [Piluyaa Open Ear: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-piluyaa-open-ear-breaking-down-the-specs.md)
 - [5 Budget-Friendly Alternatives to Avantree Ensemble (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-5-budget-friendly-alternatives-to-avantree-ensemble-2026.md)
 - [Avantree Ensemble &#8211; Headphones Review (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-avantree-ensemble-headphones-review-2026.md)
