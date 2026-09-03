@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 3, 2026
+- [Belkin SoundForm Mini vs Belkin SoundForm True: 5 Things&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-belkin-soundform-mini-vs-belkin-soundform-true-5-things.md)
 - [Belkin SoundForm Mini: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-belkin-soundform-mini-spec-breakdown-2026.md)
 - [Top Upgrade Choice: Soundcore Liberty 5 or WUNIAK? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-top-upgrade-choice-soundcore-liberty-5-or-wuniak-2026.md)
 - [Soundcore Liberty 5 vs Its Top 7 Competitors (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-soundcore-liberty-5-vs-its-top-7-competitors-2026.md)
