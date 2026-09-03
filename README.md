@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 3, 2026
+- [Soundcore Liberty 5: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-soundcore-liberty-5-features-specs-guide.md)
 - [5 Wired Earbud Accessories You’ll Actually Use in 2026](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-5-wired-earbud-accessories-youll-actually-use-in-2026.md)
 - [5 Must-Have Accessories for Nothing Ear (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-5-must-have-accessories-for-nothing-ear-2026.md)
 - [Nothing Ear vs CMF BY Nothing: 5 Things to Consider (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-nothing-ear-vs-cmf-by-nothing-5-things-to-consider-2026.md)
