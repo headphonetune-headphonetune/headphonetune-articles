@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 3, 2026
+- [The Fosi Audio DS2 Starter Pack: What to Order Together (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-the-fosi-audio-ds2-starter-pack-what-to-order-together-2026.md)
 - [Fosi Audio DS2 vs Fosi Audio ZH3: 5 Things to Consider (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-fosi-audio-ds2-vs-fosi-audio-zh3-5-things-to-consider-2026.md)
 - [Headphones Pick: Fosi Audio DS2 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-headphones-pick-fosi-audio-ds2-2026.md)
 
