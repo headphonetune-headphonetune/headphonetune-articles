@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### September 3, 2026
+- [Headphones Pick: Fosi Audio DS2 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-03-headphones-pick-fosi-audio-ds2-2026.md)
+
 ### September 2, 2026
 - [5 Essential Accessories for Your bmani Ear Buds (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-5-essential-accessories-for-your-bmani-ear-buds-2026.md)
 - [Accessorize Your bmani Ear Buds: Smart Add-Ons (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-02-accessorize-your-bmani-ear-buds-smart-add-ons-2026.md)
