@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 4, 2026
+- [Wireless Earbuds &amp; Q20i vs Baseus Bass BP1: Top Headphones Pick?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-wireless-earbuds-q20i-vs-baseus-bass-bp1-top-headphones-pick.md)
 - [Headphones Pick: rockpapa Share 1 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-headphones-pick-rockpapa-share-1-2026.md)
 - [The BeAttack Wired Over Starter Pack: What to Order&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-the-beattack-wired-over-starter-pack-what-to-order.md)
 - [BeAttack Wired Over: Key Specs &amp; Value (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-beattack-wired-over-key-specs-value-2026.md)
