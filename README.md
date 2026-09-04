@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 4, 2026
+- [JBL Tune 720BT: Key Specs &amp; Value (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-jbl-tune-720bt-key-specs-value-2026.md)
 - [5 Essential Accessories for Your KVIDIO Wired Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-5-essential-accessories-for-your-kvidio-wired-headphones-2026.md)
 - [Don&#8217;t Forget These: KVIDIO Wired Headphones Accessories (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-dont-forget-these-kvidio-wired-headphones-accessories-2026.md)
 - [KVIDIO Wired Headphones: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-kvidio-wired-headphones-breaking-down-the-specs.md)
