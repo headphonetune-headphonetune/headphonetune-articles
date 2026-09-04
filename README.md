@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 4, 2026
+- [The BeAttack Wired Over Starter Pack: What to Order&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-the-beattack-wired-over-starter-pack-what-to-order.md)
 - [BeAttack Wired Over: Key Specs &amp; Value (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-beattack-wired-over-key-specs-value-2026.md)
 - [Y8+ Noise? 5 Accessories That Make It Perfect](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-y8-noise-5-accessories-that-make-it-perfect.md)
 - [5 Essential Accessories for Your PHILIPS Open-Back Stereo (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-5-essential-accessories-for-your-philips-open-back-stereo-2026.md)
