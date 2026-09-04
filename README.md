@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 4, 2026
+- [PHILIPS Open-Back Stereo vs Philips T6908 True: The&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-philips-open-back-stereo-vs-philips-t6908-true-the.md)
 - [PHILIPS Open-Back Stereo vs the Competition: 7&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-philips-open-back-stereo-vs-the-competition-7.md)
 - [PHILIPS Open-Back Stereo: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-philips-open-back-stereo-spec-focused-overview.md)
 - [5 Essential Accessories for Your Logitech H111 Wired (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-5-essential-accessories-for-your-logitech-h111-wired-2026.md)
