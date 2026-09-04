@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 4, 2026
+- [5 Essential Accessories for Your Logitech H111 Wired (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-5-essential-accessories-for-your-logitech-h111-wired-2026.md)
 - [Logitech H111 Wired to weishan G Pro: Worth the Jump? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-logitech-h111-wired-to-weishan-g-pro-worth-the-jump-2026.md)
 - [Logitech H111 Wired vs the Competition: 6 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-logitech-h111-wired-vs-the-competition-6-alternatives-2026.md)
 - [Logitech H111 Wired: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-logitech-h111-wired-specs-performance-review.md)
