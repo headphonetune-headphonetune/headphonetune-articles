@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 4, 2026
+- [FashionLive Wireless Music: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-fashionlive-wireless-music-what-the-specs-tell-us.md)
 - [5 Essential Accessories for Your Amazon Renewed Bose (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-5-essential-accessories-for-your-amazon-renewed-bose-2026.md)
 - [What to Buy With Amazon Renewed Bose: 5 Essentials (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-what-to-buy-with-amazon-renewed-bose-5-essentials-2026.md)
 - [Skip Amazon Renewed Bose? What Amazon Renewed Beats Offers&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-skip-amazon-renewed-bose-what-amazon-renewed-beats-offers.md)
