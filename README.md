@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 4, 2026
+- [Logitech H111 Wired vs the Competition: 6 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-logitech-h111-wired-vs-the-competition-6-alternatives-2026.md)
 - [Logitech H111 Wired: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-logitech-h111-wired-specs-performance-review.md)
 - [JBL Tune 720BT vs WUNIAK Case: The Numbers Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-jbl-tune-720bt-vs-wuniak-case-the-numbers-compared-2026.md)
 - [Thinking About JBL Tune 720BT? Consider These 6 Instead (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-thinking-about-jbl-tune-720bt-consider-these-6-instead-2026.md)
