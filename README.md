@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 4, 2026
+- [rockpapa Comfort Kids: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-rockpapa-comfort-kids-breaking-down-the-specs.md)
 - [Small Upgrades for Your FashionLive Wireless Music (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-small-upgrades-for-your-fashionlive-wireless-music-2026.md)
 - [FashionLive Wireless Music vs FashionLive Wireless Beanie&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-fashionlive-wireless-music-vs-fashionlive-wireless-beanie.md)
 - [FashionLive Wireless Music: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-fashionlive-wireless-music-what-the-specs-tell-us.md)
