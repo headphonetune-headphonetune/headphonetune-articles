@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 4, 2026
+- [Upgrade Your LORELEI X6 Over-Ear: Accessories Worth It (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-upgrade-your-lorelei-x6-over-ear-accessories-worth-it-2026.md)
 - [Alternatives to LORELEI X6 Over-Ear: 7 Similar Products&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-alternatives-to-lorelei-x6-over-ear-7-similar-products.md)
 - [LORELEI X6 Over-Ear: Evaluating the Features](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-lorelei-x6-over-ear-evaluating-the-features.md)
 - [HUOMU Wired Earbuds 5-Pack Setup: Essential Accessories &amp;&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-huomu-wired-earbuds-5-pack-setup-essential-accessories.md)
