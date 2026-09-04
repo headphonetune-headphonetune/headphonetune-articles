@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 4, 2026
+- [Complete Your Belkin SoundForm Mini 2 Setup: Must-Have&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-complete-your-belkin-soundform-mini-2-setup-must-have.md)
 - [Belkin SoundForm Mini 2: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-belkin-soundform-mini-2-spec-breakdown-2026.md)
 - [Arciea Bone Conduction Alternatives: 6 Better Options (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-arciea-bone-conduction-alternatives-6-better-options-2026.md)
 - [Arciea Bone Conduction: Right for Your Needs?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-arciea-bone-conduction-right-for-your-needs.md)
