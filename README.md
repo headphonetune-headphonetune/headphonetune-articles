@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 5, 2026
+- [Sony ZX Series: Right for Your Needs?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-sony-zx-series-right-for-your-needs.md)
 - [Best Accessories for OneOdio Wired DJ: Top Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-best-accessories-for-oneodio-wired-dj-top-picks-2026.md)
 - [OneOdio Wired DJ vs C Wired &amp;: The Numbers Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-oneodio-wired-dj-vs-c-wired-the-numbers-compared-2026.md)
 - [OneOdio Wired DJ: Evaluating the Features](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-oneodio-wired-dj-evaluating-the-features.md)
