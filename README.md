@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### September 5, 2026
+- [Otium Bluetooth Earbuds: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-otium-bluetooth-earbuds-specs-performance-review.md)
+
 ### September 4, 2026
 - [rockpapa Share 1 vs rockpapa Share 1: Is the Upgrade Worth&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-rockpapa-share-1-vs-rockpapa-share-1-is-the-upgrade-worth.md)
 - [Wireless Earbuds &amp; Q20i vs Baseus Bass BP1: Top Headphones Pick?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-04-wireless-earbuds-q20i-vs-baseus-bass-bp1-top-headphones-pick.md)
