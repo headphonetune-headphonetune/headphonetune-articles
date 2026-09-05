@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 5, 2026
+- [Top COOSII Wired Over for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-top-coosii-wired-over-for-headphones-2026.md)
 - [rockpapa L22 Wired vs rockpapa Comfort+ Kids: What Changed&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-rockpapa-l22-wired-vs-rockpapa-comfort-kids-what-changed.md)
 - [rockpapa L22 Wired: Evaluating the Features](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-rockpapa-l22-wired-evaluating-the-features.md)
 - [OneOdio Pro-30 Over to Baval Hard Travel: Worth the Jump?&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-oneodio-pro-30-over-to-baval-hard-travel-worth-the-jump.md)
