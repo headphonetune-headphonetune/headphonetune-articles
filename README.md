@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 5, 2026
+- [OneOdio Wired DJ vs C Wired &amp;: The Numbers Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-oneodio-wired-dj-vs-c-wired-the-numbers-compared-2026.md)
 - [OneOdio Wired DJ: Evaluating the Features](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-oneodio-wired-dj-evaluating-the-features.md)
 - [Skip Tuitager Bluetooth Headphones? What Tuitager&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-skip-tuitager-bluetooth-headphones-what-tuitager.md)
 - [The Best Tuitager Bluetooth Headphones Alternatives: 5&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-the-best-tuitager-bluetooth-headphones-alternatives-5.md)
