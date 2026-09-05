@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 5, 2026
+- [OneOdio Pro-30 Over to Baval Hard Travel: Worth the Jump?&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-oneodio-pro-30-over-to-baval-hard-travel-worth-the-jump.md)
 - [OneOdio Pro-30 Over &#8211; Headphones Review (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-oneodio-pro-30-over-headphones-review-2026.md)
 - [5 Must-Have Accessories for Sony ZX Series (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-5-must-have-accessories-for-sony-zx-series-2026.md)
 - [Sony ZX Series Alternatives: 5 Picks, Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-sony-zx-series-alternatives-5-picks-compared-2026.md)
