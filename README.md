@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 5, 2026
+- [Fhumsh Wireless Earbuds or TOZO OpenEarRing True? A&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-fhumsh-wireless-earbuds-or-tozo-openearring-true-a.md)
 - [Wireless Earbuds &amp; Q20i vs Monster N-Lite 310: Worth the Upgrade?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-wireless-earbuds-q20i-vs-monster-n-lite-310-worth-the-upgrade.md)
 - [Fhumsh Wireless Earbuds: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-fhumsh-wireless-earbuds-what-the-specs-tell-us.md)
 - [Other Kensington Hi-Fi On-Ear to Consider: 6 Alternatives&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-other-kensington-hi-fi-on-ear-to-consider-6-alternatives.md)
