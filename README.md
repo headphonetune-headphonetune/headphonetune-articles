@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 5, 2026
+- [Top PROHEAR 027 AM for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-top-prohear-027-am-for-headphones-2026.md)
 - [iClever HS19S Kids Accessories That Last: Quality Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-iclever-hs19s-kids-accessories-that-last-quality-picks-2026.md)
 - [Is L LTGEM Kids the Best Upgrade for iClever HS19S Kids?&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-is-l-ltgem-kids-the-best-upgrade-for-iclever-hs19s-kids.md)
 - [Alternatives to iClever HS19S Kids: 7 Similar Products&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-alternatives-to-iclever-hs19s-kids-7-similar-products.md)
