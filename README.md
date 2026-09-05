@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 5, 2026
+- [Otium Bluetooth Earbuds vs ElloGear AKG Wired: Our Pick&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-otium-bluetooth-earbuds-vs-ellogear-akg-wired-our-pick.md)
 - [Otium Bluetooth Earbuds: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-otium-bluetooth-earbuds-specs-performance-review.md)
 
 ### September 4, 2026
