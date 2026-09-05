@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 5, 2026
+- [Fhumsh Wireless Earbuds: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-fhumsh-wireless-earbuds-what-the-specs-tell-us.md)
 - [Other Kensington Hi-Fi On-Ear to Consider: 6 Alternatives&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-other-kensington-hi-fi-on-ear-to-consider-6-alternatives.md)
 - [Kensington Hi-Fi On-Ear: A Detailed Spec Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-kensington-hi-fi-on-ear-a-detailed-spec-analysis.md)
 - [5 Essential Accessories for Your OneOdio A71 Hi-Res (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-5-essential-accessories-for-your-oneodio-a71-hi-res-2026.md)
