@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 5, 2026
+- [The COOSII Wired Over Starter Pack: What to Order Together&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-the-coosii-wired-over-starter-pack-what-to-order-together.md)
 - [COOSII Wired Over vs COOSII AC01 Over: Is the Upgrade&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-coosii-wired-over-vs-coosii-ac01-over-is-the-upgrade.md)
 - [Top COOSII Wired Over for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-top-coosii-wired-over-for-headphones-2026.md)
 - [rockpapa L22 Wired vs rockpapa Comfort+ Kids: What Changed&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-rockpapa-l22-wired-vs-rockpapa-comfort-kids-what-changed.md)
