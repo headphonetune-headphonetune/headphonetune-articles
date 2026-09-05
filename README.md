@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 5, 2026
+- [OneOdio Wired DJ: Evaluating the Features](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-oneodio-wired-dj-evaluating-the-features.md)
 - [Skip Tuitager Bluetooth Headphones? What Tuitager&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-skip-tuitager-bluetooth-headphones-what-tuitager.md)
 - [The Best Tuitager Bluetooth Headphones Alternatives: 5&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-the-best-tuitager-bluetooth-headphones-alternatives-5.md)
 - [Tuitager Bluetooth Headphones: Right for Your Needs?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-tuitager-bluetooth-headphones-right-for-your-needs.md)
