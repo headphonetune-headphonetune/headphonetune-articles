@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 6, 2026
+- [noot products K11: Practical Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-noot-products-k11-practical-analysis.md)
 - [5 Essential Accessories for Your Sony Over On (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-5-essential-accessories-for-your-sony-over-on-2026.md)
 - [Don&#8217;t Forget These: Sony Over On Accessories (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-dont-forget-these-sony-over-on-accessories-2026.md)
 - [7 Underrated Alternatives to Sony Over On (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-7-underrated-alternatives-to-sony-over-on-2026.md)
