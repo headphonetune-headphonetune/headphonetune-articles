@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 6, 2026
+- [JOMILIN A8 Over-Ear: Key Specs &amp; Value (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-jomilin-a8-over-ear-key-specs-value-2026.md)
 - [5 Essential Accessories for Your Yamaha HPH-50B Compact (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-5-essential-accessories-for-your-yamaha-hph-50b-compact-2026.md)
 - [Yamaha HPH-50B Compact: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-yamaha-hph-50b-compact-is-it-worth-it-2026.md)
 - [5 Essential Accessories for Your SONY Over Ear (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-5-essential-accessories-for-your-sony-over-ear-2026.md)
