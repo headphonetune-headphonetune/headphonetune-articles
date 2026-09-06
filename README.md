@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### September 6, 2026
+- [Headphones Pick: SONY Over Ear (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-headphones-pick-sony-over-ear-2026.md)
+
 ### September 5, 2026
 - [Top PROHEAR 027 AM for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-top-prohear-027-am-for-headphones-2026.md)
 - [iClever HS19S Kids Accessories That Last: Quality Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-05-iclever-hs19s-kids-accessories-that-last-quality-picks-2026.md)
