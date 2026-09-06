@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 6, 2026
+- [Wireless Earbuds &amp; Q20i vs DUCOCUB Open Ear: Which Is Better?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-wireless-earbuds-q20i-vs-ducocub-open-ear-which-is-better.md)
 - [ARTIX Wired Headphones: Key Specs &amp; Value (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-artix-wired-headphones-key-specs-value-2026.md)
 - [Complete Your Cyber Acoustics AC-204 Setup: Must-Have&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-complete-your-cyber-acoustics-ac-204-setup-must-have.md)
 - [Cyber Acoustics AC-204: Evaluating the Features](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-cyber-acoustics-ac-204-evaluating-the-features.md)
