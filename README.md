@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 6, 2026
+- [ADOOPE Wired Over-Ear vs XANAD Kids Headphones: Which One&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-adoope-wired-over-ear-vs-xanad-kids-headphones-which-one.md)
 - [ADOOPE Wired Over-Ear: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-adoope-wired-over-ear-specs-performance-review.md)
 - [Top Add-Ons for Classroom Headphone &amp;: What to Buy&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-top-add-ons-for-classroom-headphone-what-to-buy.md)
 - [Looking for Classroom Headphone &amp; Alternatives? 5 Top&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-06-looking-for-classroom-headphone-alternatives-5-top.md)
