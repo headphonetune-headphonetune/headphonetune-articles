@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 7, 2026
+- [Wireless Earbuds &amp; Q20i vs KASOTT 2.4GHZ Wireless: Reviewed&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-wireless-earbuds-q20i-vs-kasott-2-4ghz-wireless-reviewed.md)
 - [Califone 3068AV Switchable: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-califone-3068av-switchable-specs-performance-review.md)
 - [5 Essential Accessories for Your Nimizo 2 Pack (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-5-essential-accessories-for-your-nimizo-2-pack-2026.md)
 - [The Nimizo 2 Pack Accessory Guide: What You Actually Need&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-the-nimizo-2-pack-accessory-guide-what-you-actually-need.md)
