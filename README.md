@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 7, 2026
+- [Small Upgrades for Your Koss UR10i Lightweight (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-small-upgrades-for-your-koss-ur10i-lightweight-2026.md)
 - [Koss UR10i Lightweight: Competitive Analysis (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-koss-ur10i-lightweight-competitive-analysis-2026.md)
 
 ### September 6, 2026
