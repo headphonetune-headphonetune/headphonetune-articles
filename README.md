@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 7, 2026
+- [Egghead Stereo School: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-egghead-stereo-school-features-specs-guide.md)
 - [Rayleigh Wired Earbuds Accessories That Last: Quality&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-rayleigh-wired-earbuds-accessories-that-last-quality.md)
 - [Rayleigh Wired Earbuds: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-rayleigh-wired-earbuds-spec-focused-overview.md)
 - [Best Accessories for AILIHEN C8 Wired: Top Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-best-accessories-for-ailihen-c8-wired-top-picks-2026.md)
