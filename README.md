@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 7, 2026
+- [Nimizo 2 Pack: Key Specs &amp; Value (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-nimizo-2-pack-key-specs-value-2026.md)
 - [5 Essential Accessories for Your Maeline Bulk On-Ear (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-5-essential-accessories-for-your-maeline-bulk-on-ear-2026.md)
 - [Maeline Bulk On-Ear: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-maeline-bulk-on-ear-top-features-compared-2026.md)
 - [5 Must-Have Accessories for Your Sennheiser HD 206 in 2026](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-5-must-have-accessories-for-your-sennheiser-hd-206-in-2026.md)
