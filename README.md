@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 7, 2026
+- [Wireless Earbuds &amp; Q20i vs Samsung Galaxy Buds: Full Comparison](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-wireless-earbuds-q20i-vs-samsung-galaxy-buds-full-comparison.md)
 - [AILIHEN C8 Wired: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-ailihen-c8-wired-specs-performance-review.md)
 - [Thinking About Frienda 48 Pack? Consider These 7 Instead&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-thinking-about-frienda-48-pack-consider-these-7-instead.md)
 - [Frienda 48 Pack: A Detailed Spec Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-frienda-48-pack-a-detailed-spec-analysis.md)
