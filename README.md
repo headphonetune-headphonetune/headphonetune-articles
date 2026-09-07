@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 7, 2026
+- [Rayleigh Wired Earbuds: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-rayleigh-wired-earbuds-spec-focused-overview.md)
 - [Best Accessories for AILIHEN C8 Wired: Top Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-best-accessories-for-ailihen-c8-wired-top-picks-2026.md)
 - [Wireless Earbuds &amp; Q20i vs Samsung Galaxy Buds: Full Comparison](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-wireless-earbuds-q20i-vs-samsung-galaxy-buds-full-comparison.md)
 - [AILIHEN C8 Wired: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-ailihen-c8-wired-specs-performance-review.md)
