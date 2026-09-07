@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 7, 2026
+- [Pair These Accessories With M-AUDIO HDH40 Closed-Back (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-pair-these-accessories-with-m-audio-hdh40-closed-back-2026.md)
 - [Thinking About M-AUDIO HDH40 Closed-Back? Consider These 7&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-thinking-about-m-audio-hdh40-closed-back-consider-these-7.md)
 - [M-AUDIO HDH40 Closed-Back: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-m-audio-hdh40-closed-back-spec-focused-overview.md)
 - [5 Essential Accessories for Your Junfamilee Retro Over (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-5-essential-accessories-for-your-junfamilee-retro-over-2026.md)
