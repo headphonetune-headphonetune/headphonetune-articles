@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 8, 2026
+- [Razer BlackShark V2 Setup: Essential Accessories &amp; Add-Ons&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-razer-blackshark-v2-setup-essential-accessories-add-ons.md)
 - [Razer BlackShark V2: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-razer-blackshark-v2-spec-focused-overview.md)
 
 ### September 7, 2026
