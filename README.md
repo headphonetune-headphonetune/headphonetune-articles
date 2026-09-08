@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 8, 2026
+- [BJKing AM/FM Radio to BJKing Upgraded 5.4: Worth the Jump?&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-bjking-am-fm-radio-to-bjking-upgraded-5-4-worth-the-jump.md)
 - [BJKing AM/FM Radio: What to Know Before Buying](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-bjking-am-fm-radio-what-to-know-before-buying.md)
 - [ZOHAN AM/FM Radio Essentials: What to Grab First (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-zohan-am-fm-radio-essentials-what-to-grab-first-2026.md)
 - [ZOHAN AM/FM Radio vs ZOHAN EM030 Kids: Spec-by-Spec&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-zohan-am-fm-radio-vs-zohan-em030-kids-spec-by-spec.md)
