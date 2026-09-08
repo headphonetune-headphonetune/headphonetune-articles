@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 8, 2026
+- [LWZCAM 5 Pack 3.5mm: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-lwzcam-5-pack-3-5mm-is-it-worth-it-2026.md)
 - [PROHEAR 033 2.0 vs PROHEAR GEP03 Upgraded: Spec-by-Spec&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-prohear-033-2-0-vs-prohear-gep03-upgraded-spec-by-spec.md)
 - [Pick a Winner: 5 Alternatives to PROHEAR 033 2.0 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-pick-a-winner-5-alternatives-to-prohear-033-2-0-2026.md)
 - [PROHEAR 033 2.0: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-prohear-033-2-0-breaking-down-the-specs.md)
