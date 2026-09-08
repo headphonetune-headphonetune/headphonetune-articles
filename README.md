@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 8, 2026
+- [PROHEAR 033 2.0: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-prohear-033-2-0-breaking-down-the-specs.md)
 - [5 Essential Accessories for Your BJKing AM/FM Radio (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-5-essential-accessories-for-your-bjking-am-fm-radio-2026.md)
 - [BJKing AM/FM Radio to BJKing Upgraded 5.4: Worth the Jump?&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-bjking-am-fm-radio-to-bjking-upgraded-5-4-worth-the-jump.md)
 - [BJKing AM/FM Radio: What to Know Before Buying](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-bjking-am-fm-radio-what-to-know-before-buying.md)
