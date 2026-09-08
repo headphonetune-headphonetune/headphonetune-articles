@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 8, 2026
+- [DOQAUS Bluetooth Headphones: Key Specs &amp; Value (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-doqaus-bluetooth-headphones-key-specs-value-2026.md)
 - [The Soundnetic SN313 Bulk Accessory Guide: What You&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-the-soundnetic-sn313-bulk-accessory-guide-what-you.md)
 - [Is Soundnetic SNCCV Bulk Worth the Extra Cost? Comparing&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-is-soundnetic-snccv-bulk-worth-the-extra-cost-comparing.md)
 - [Swap It: 7 Alternatives to Soundnetic SN313 Bulk Worth&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-swap-it-7-alternatives-to-soundnetic-sn313-bulk-worth.md)
