@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 8, 2026
+- [Is It Time to Upgrade? Qozybuds Bluetooth 6.0 vs Qozybuds&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-is-it-time-to-upgrade-qozybuds-bluetooth-6-0-vs-qozybuds.md)
 - [Qozybuds Bluetooth 6.0 Alternatives: 6 Better Options (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-qozybuds-bluetooth-6-0-alternatives-6-better-options-2026.md)
 - [Qozybuds Bluetooth 6.0: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-qozybuds-bluetooth-6-0-spec-focused-overview.md)
 - [Razer BlackShark V2 Setup: Essential Accessories &amp; Add-Ons&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-razer-blackshark-v2-setup-essential-accessories-add-ons.md)
