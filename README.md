@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 8, 2026
+- [LORELEI E5 Wired: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-lorelei-e5-wired-features-specs-guide.md)
 - [Pair These Accessories With BESNOOW Wireless Earbuds (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-pair-these-accessories-with-besnoow-wireless-earbuds-2026.md)
 - [BESNOOW Wireless Earbuds: Evaluating the Features](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-besnoow-wireless-earbuds-evaluating-the-features.md)
 - [Ertuly T33 Sleep Review: Honest Verdict for 2026](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-ertuly-t33-sleep-review-honest-verdict-for-2026.md)
