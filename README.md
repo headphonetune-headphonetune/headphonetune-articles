@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### September 8, 2026
+- [Razer BlackShark V2: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-razer-blackshark-v2-spec-focused-overview.md)
+
 ### September 7, 2026
 - [Best Accessories for Califone 3068AV Switchable: Top Picks&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-best-accessories-for-califone-3068av-switchable-top-picks.md)
 - [Should You Upgrade to Califone Headset Over-Ear? Califone&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-07-should-you-upgrade-to-califone-headset-over-ear-califone.md)
