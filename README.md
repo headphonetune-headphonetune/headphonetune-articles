@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 8, 2026
+- [What to Buy With Audio-Technica BPHS1 Broadcast: 5&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-what-to-buy-with-audio-technica-bphs1-broadcast-5.md)
 - [Wireless Earbuds &amp; Q20i vs Phiaton BonoBeats Lite: Which&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-wireless-earbuds-q20i-vs-phiaton-bonobeats-lite-which.md)
 - [Audio-Technica BPHS1 Broadcast: What to Know Before Buying](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-audio-technica-bphs1-broadcast-what-to-know-before-buying.md)
 - [5 Essential Accessories for Your Flutesan 30 Pack (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-5-essential-accessories-for-your-flutesan-30-pack-2026.md)
