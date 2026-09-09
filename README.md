@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 9, 2026
+- [Top Upgrade Choice: Kathfly Headset or Kathfly Headset? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-top-upgrade-choice-kathfly-headset-or-kathfly-headset-2026.md)
 - [Kathfly Headset: Competitive Analysis (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-kathfly-headset-competitive-analysis-2026.md)
 - [What to Buy With Your Cowyawn USB C: Complete Checklist (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-what-to-buy-with-your-cowyawn-usb-c-complete-checklist-2026.md)
 - [Cowyawn USB C vs Cowyawn USB Type: The Numbers Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-cowyawn-usb-c-vs-cowyawn-usb-type-the-numbers-compared-2026.md)
