@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 9, 2026
+- [Wireless Earbuds &amp; Q20i vs Kuizil Wireless Earbuds:&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-wireless-earbuds-q20i-vs-kuizil-wireless-earbuds.md)
 - [Cowyawn USB C: Competitive Analysis (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-cowyawn-usb-c-competitive-analysis-2026.md)
 
 ### September 8, 2026
