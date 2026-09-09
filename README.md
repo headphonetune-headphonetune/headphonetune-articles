@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 9, 2026
+- [Small Upgrades for Your Yoley Classroom Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-small-upgrades-for-your-yoley-classroom-headphones-2026.md)
 - [Should You Upgrade to Yoley Classroom Headphones? Yoley&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-should-you-upgrade-to-yoley-classroom-headphones-yoley.md)
 - [Skip Yoley Classroom Headphones? Try These 5 Alternatives&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-skip-yoley-classroom-headphones-try-these-5-alternatives.md)
 - [Top Yoley Classroom Headphones for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-top-yoley-classroom-headphones-for-headphones-2026.md)
