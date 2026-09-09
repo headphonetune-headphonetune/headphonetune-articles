@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 9, 2026
+- [What to Buy With Your Cowyawn USB C: Complete Checklist (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-what-to-buy-with-your-cowyawn-usb-c-complete-checklist-2026.md)
 - [Cowyawn USB C vs Cowyawn USB Type: The Numbers Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-cowyawn-usb-c-vs-cowyawn-usb-type-the-numbers-compared-2026.md)
 - [Swap It: 5 Alternatives to Cowyawn USB C Worth Considering&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-swap-it-5-alternatives-to-cowyawn-usb-c-worth-considering.md)
 - [Wireless Earbuds &amp; Q20i vs Kuizil Wireless Earbuds:&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-wireless-earbuds-q20i-vs-kuizil-wireless-earbuds.md)
