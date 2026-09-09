@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### September 9, 2026
+- [Cowyawn USB C: Competitive Analysis (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-cowyawn-usb-c-competitive-analysis-2026.md)
+
 ### September 8, 2026
 - [5 Essential Accessories for Your LORELEI E5 Wired (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-5-essential-accessories-for-your-lorelei-e5-wired-2026.md)
 - [LORELEI E5 Wired Accessories for New Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-08-lorelei-e5-wired-accessories-for-new-owners-2026.md)
