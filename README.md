@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 9, 2026
+- [LWZCAM Wired Earbud 5 vs LWZCAM 5 Pack 3.5mm: What Changed&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-lwzcam-wired-earbud-5-vs-lwzcam-5-pack-3-5mm-what-changed.md)
 - [7 Alternatives to LWZCAM Wired Earbud 5 That Are Worth It&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-7-alternatives-to-lwzcam-wired-earbud-5-that-are-worth-it.md)
 - [LWZCAM Wired Earbud 5: Right for Your Needs?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-lwzcam-wired-earbud-5-right-for-your-needs.md)
 - [Do Not Skip These Lecefty Neckband Bluetooth Accessories&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-09-do-not-skip-these-lecefty-neckband-bluetooth-accessories.md)
