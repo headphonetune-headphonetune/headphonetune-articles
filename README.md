@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 10, 2026
+- [COMSOON Bluetooth Receiver: Does It Deliver? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-comsoon-bluetooth-receiver-does-it-deliver-2026.md)
 - [RevoNext in Ear Accessories for New Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-revonext-in-ear-accessories-for-new-owners-2026.md)
 - [RevoNext in Ear vs RevoNext HiFi IEM: What Changed (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-revonext-in-ear-vs-revonext-hifi-iem-what-changed-2026.md)
 - [RevoNext in Ear: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-revonext-in-ear-is-it-worth-it-2026.md)
