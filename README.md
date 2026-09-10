@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 10, 2026
+- [ABEAUROOSE Foldable Bluetooth: A Detailed Spec Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-abeauroose-foldable-bluetooth-a-detailed-spec-analysis.md)
 - [Best bmani Earbud Accessories to Buy in 2026](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-best-bmani-earbud-accessories-to-buy-in-2026.md)
 - [Great Gifts for Califone 2800-YL CT Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-great-gifts-for-califone-2800-yl-ct-owners-2026.md)
 - [5 Alternatives That Rival Califone 2800-YL CT (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-5-alternatives-that-rival-califone-2800-yl-ct-2026.md)
