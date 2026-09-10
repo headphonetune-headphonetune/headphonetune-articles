@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 10, 2026
+- [Top Upgrade Choice: CCA C12 in or CCA Phoenix in-Ear? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-top-upgrade-choice-cca-c12-in-or-cca-phoenix-in-ear-2026.md)
 - [Best CCA C12 in at the Same Price: 5 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-best-cca-c12-in-at-the-same-price-5-alternatives-2026.md)
 - [CCA C12 in: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-cca-c12-in-specs-performance-review.md)
 - [Make the Most of HamiltonBuhl Primo Stereo: Essential&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-make-the-most-of-hamiltonbuhl-primo-stereo-essential.md)
