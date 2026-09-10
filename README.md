@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 10, 2026
+- [XIAOWTEK Wireless Earbuds: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-xiaowtek-wireless-earbuds-is-it-worth-it-2026.md)
 - [ABEAUROOSE Foldable Bluetooth Setup: Essential Accessories&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-abeauroose-foldable-bluetooth-setup-essential-accessories.md)
 - [ABEAUROOSE Foldable Bluetooth to ElloGear AKG Wired: Worth&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-abeauroose-foldable-bluetooth-to-ellogear-akg-wired-worth.md)
 - [ABEAUROOSE Foldable Bluetooth Alternatives: 6 Picks&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-abeauroose-foldable-bluetooth-alternatives-6-picks.md)
