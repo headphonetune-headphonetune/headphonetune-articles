@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 10, 2026
+- [Kalence 2025 Bluetooth 5.4 to Kalence Bluetooth 5.4: Worth&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-kalence-2025-bluetooth-5-4-to-kalence-bluetooth-5-4-worth.md)
 - [Kalence 2025 Bluetooth 5.4: Right for Your Needs?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-kalence-2025-bluetooth-5-4-right-for-your-needs.md)
 - [AudioVideo2go Pilot Odyssey vs Jacuate Clip on&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-audiovideo2go-pilot-odyssey-vs-jacuate-clip-on.md)
 - [Pick a Winner: 5 Alternatives to AudioVideo2go Pilot&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-pick-a-winner-5-alternatives-to-audiovideo2go-pilot.md)
