@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 10, 2026
+- [CCA C12 in: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-cca-c12-in-specs-performance-review.md)
 - [Make the Most of HamiltonBuhl Primo Stereo: Essential&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-make-the-most-of-hamiltonbuhl-primo-stereo-essential.md)
 - [Other HamiltonBuhl Primo Stereo to Consider: 5&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-other-hamiltonbuhl-primo-stereo-to-consider-5.md)
 - [Wireless Earbuds &amp; Q20i vs Nothing Headphone: Worth the Upgrade?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-wireless-earbuds-q20i-vs-nothing-headphone-worth-the-upgrade.md)
