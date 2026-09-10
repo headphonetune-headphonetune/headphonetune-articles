@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 10, 2026
+- [AudioVideo2go Pilot Odyssey vs Jacuate Clip on&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-audiovideo2go-pilot-odyssey-vs-jacuate-clip-on.md)
 - [Pick a Winner: 5 Alternatives to AudioVideo2go Pilot&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-pick-a-winner-5-alternatives-to-audiovideo2go-pilot.md)
 - [AudioVideo2go Pilot Odyssey: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-audiovideo2go-pilot-odyssey-spec-breakdown-2026.md)
 - [Best Accessories for Cyber Acoustics ACM-6005: Top Picks&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-best-accessories-for-cyber-acoustics-acm-6005-top-picks.md)
