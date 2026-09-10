@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 10, 2026
+- [Wireless Earbuds &amp; Q20i vs Soundcore by Anker: Which Is Better?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-wireless-earbuds-q20i-vs-soundcore-by-anker-which-is-better.md)
 - [Cyber Acoustics AC-5008A: Practical Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-cyber-acoustics-ac-5008a-practical-analysis.md)
 
 ### September 9, 2026
