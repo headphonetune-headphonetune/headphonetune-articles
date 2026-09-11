@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 11, 2026
+- [Headphones Pick: PDP Gaming AIRLITE (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-headphones-pick-pdp-gaming-airlite-2026.md)
 - [SOMIC Stereo Gaming: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-somic-stereo-gaming-what-the-specs-tell-us.md)
 - [XIAOWTEK Wireless Earbuds Essentials: What to Grab First&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-xiaowtek-wireless-earbuds-essentials-what-to-grab-first.md)
 - [Top XIAOWTEK Wireless Earbuds for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-top-xiaowtek-wireless-earbuds-for-headphones-2026.md)
