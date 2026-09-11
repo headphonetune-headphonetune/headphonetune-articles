@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 11, 2026
+- [KVIDIO Hybrid Active &#8211; Headphones Review (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-kvidio-hybrid-active-headphones-review-2026.md)
 - [Pick a Winner: 5 Alternatives to Wired in Ear (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-pick-a-winner-5-alternatives-to-wired-in-ear-2026.md)
 - [Wired in Ear: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-wired-in-ear-is-it-worth-it-2026.md)
 - [Upgrade Your IMYB Kids Headphones: Accessories Worth It (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-upgrade-your-imyb-kids-headphones-accessories-worth-it-2026.md)
