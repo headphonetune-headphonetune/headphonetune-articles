@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 11, 2026
+- [Wired in Ear: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-wired-in-ear-is-it-worth-it-2026.md)
 - [Upgrade Your IMYB Kids Headphones: Accessories Worth It (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-upgrade-your-imyb-kids-headphones-accessories-worth-it-2026.md)
 - [Is L LTGEM Kids the Best Upgrade for IMYB Kids Headphones?&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-is-l-ltgem-kids-the-best-upgrade-for-imyb-kids-headphones.md)
 - [IMYB Kids Headphones: Does It Deliver? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-imyb-kids-headphones-does-it-deliver-2026.md)
