@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 11, 2026
+- [Nexilunual P2 Portable Accessories for New Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-nexilunual-p2-portable-accessories-for-new-owners-2026.md)
 - [The Best Nexilunual P2 Portable Alternatives: 7 Compared&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-the-best-nexilunual-p2-portable-alternatives-7-compared.md)
 - [Nexilunual P2 Portable: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-nexilunual-p2-portable-breaking-down-the-specs.md)
 - [Do Not Skip These Bluetooth Neckband Headphones&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-do-not-skip-these-bluetooth-neckband-headphones.md)
