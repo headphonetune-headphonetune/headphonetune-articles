@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 11, 2026
+- [KVIDIO Hybrid Active vs L LTGEM Headphone: What Changed (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-kvidio-hybrid-active-vs-l-ltgem-headphone-what-changed-2026.md)
 - [KVIDIO Hybrid Active &#8211; Headphones Review (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-kvidio-hybrid-active-headphones-review-2026.md)
 - [Pick a Winner: 5 Alternatives to Wired in Ear (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-pick-a-winner-5-alternatives-to-wired-in-ear-2026.md)
 - [Wired in Ear: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-wired-in-ear-is-it-worth-it-2026.md)
