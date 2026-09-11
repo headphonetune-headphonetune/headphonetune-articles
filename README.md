@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 11, 2026
+- [Not Sure About HamiltonBuhl Kids On-Ear? Check These 5&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-not-sure-about-hamiltonbuhl-kids-on-ear-check-these-5.md)
 - [HamiltonBuhl Kids On-Ear: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-hamiltonbuhl-kids-on-ear-breaking-down-the-specs.md)
 - [Wireless Earbuds &amp; Q20i vs Picun F8 Pro: Best Headphones Option?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-wireless-earbuds-q20i-vs-picun-f8-pro-best-headphones-option.md)
 - [MORMOQUE EP09 Hi-Fi &#8211; Headphones Review (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-mormoque-ep09-hi-fi-headphones-review-2026.md)
