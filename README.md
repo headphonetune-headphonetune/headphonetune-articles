@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 11, 2026
+- [Is SQERO Headphone Case Worth the Extra Cost? Comparing&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-is-sqero-headphone-case-worth-the-extra-cost-comparing.md)
 - [Pick a Winner: 6 Alternatives to KVIDIO Bluetooth&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-pick-a-winner-6-alternatives-to-kvidio-bluetooth.md)
 - [KVIDIO Bluetooth Headphones: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-kvidio-bluetooth-headphones-breaking-down-the-specs.md)
 - [Fhumsh Wireless Earbuds Accessories for New Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-fhumsh-wireless-earbuds-accessories-for-new-owners-2026.md)
