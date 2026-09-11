@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### September 11, 2026
+- [Fhumsh Wireless Earbuds: Right for Your Needs?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-fhumsh-wireless-earbuds-right-for-your-needs.md)
+
 ### September 10, 2026
 - [Accessorize Your XIAOWTEK Wireless Earbuds: Smart Add-Ons&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-accessorize-your-xiaowtek-wireless-earbuds-smart-add-ons.md)
 - [Is Rulbo the Best Upgrade for XIAOWTEK Wireless Earbuds?&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-10-is-rulbo-the-best-upgrade-for-xiaowtek-wireless-earbuds.md)
