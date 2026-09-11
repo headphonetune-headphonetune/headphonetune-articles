@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 11, 2026
+- [Wireless Earbuds &amp; Q20i vs SOAR NBA Active: Tested &amp; Compared](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-wireless-earbuds-q20i-vs-soar-nba-active-tested-compared.md)
 - [Headphones Pick: PDP Gaming AIRLITE (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-headphones-pick-pdp-gaming-airlite-2026.md)
 - [SOMIC Stereo Gaming: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-somic-stereo-gaming-what-the-specs-tell-us.md)
 - [XIAOWTEK Wireless Earbuds Essentials: What to Grab First&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-11-xiaowtek-wireless-earbuds-essentials-what-to-grab-first.md)
