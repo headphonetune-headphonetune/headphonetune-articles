@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 12, 2026
+- [Wireless Earbuds &amp; Q20i vs Altec Lansing Comfort: Headphones&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-12-wireless-earbuds-q20i-vs-altec-lansing-comfort-headphones.md)
 - [Koss UR10 On-Ear: Key Specs &amp; Value (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-12-koss-ur10-on-ear-key-specs-value-2026.md)
 - [5 Essential Accessories for Your TERUBIN Neckband Bluetooth (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-12-5-essential-accessories-for-your-terubin-neckband-bluetooth-2026.md)
 - [TERUBIN Neckband Bluetooth Alternatives: 5 Picks, Compared&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-12-terubin-neckband-bluetooth-alternatives-5-picks-compared.md)
