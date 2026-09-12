@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 12, 2026
+- [LEVN Active Noise: What the Specs Tell Us](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-12-levn-active-noise-what-the-specs-tell-us.md)
 - [Coda Music Technologies Buyer&#8217;s Checklist: Everything You&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-12-coda-music-technologies-buyers-checklist-everything-you.md)
 - [Coda Music Technologies: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-12-coda-music-technologies-spec-focused-overview.md)
 - [5 Essential Accessories for Your Maeline Bulk Earbuds 100 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-12-5-essential-accessories-for-your-maeline-bulk-earbuds-100-2026.md)
