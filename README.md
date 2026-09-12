@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 12, 2026
+- [HamiltonBuhl Personal On-Ear: Key Specs &amp; Value (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-12-hamiltonbuhl-personal-on-ear-key-specs-value-2026.md)
 - [5 Essential Accessories for Your Rulefiss Wireless Earbuds (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-12-5-essential-accessories-for-your-rulefiss-wireless-earbuds-2026.md)
 - [WUNIAK Case for Sony Over-Ear: Worth the Upgrade in 2026?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-12-wuniak-case-for-sony-over-ear-worth-the-upgrade-in-2026.md)
 - [Great Gifts for Rulefiss Wireless Earbuds Owners (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-12-great-gifts-for-rulefiss-wireless-earbuds-owners-2026.md)
