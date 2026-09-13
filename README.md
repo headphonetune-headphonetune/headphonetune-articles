@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 13, 2026
+- [Parts Express 1/4-Inch or Fockety Ear Pads? A Detailed&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-parts-express-1-4-inch-or-fockety-ear-pads-a-detailed.md)
 - [Parts Express 1/4-Inch: Practical Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-parts-express-1-4-inch-practical-analysis.md)
 - [JBL Tune 720BT: Key Specs & Value (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-jbl-tune-720bt-key-specs-value-2026.md)
 - [Wireless Earbuds &amp; Q20i vs Soundcore by Anker Q20i: Tested &amp;&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-wireless-earbuds-q20i-vs-soundcore-by-anker-q20i-tested.md)
