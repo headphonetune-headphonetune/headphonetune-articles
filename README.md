@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 13, 2026
+- [Skip MUMSTHT Kids Headphones? What Houbrera USB C Offers&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-skip-mumstht-kids-headphones-what-houbrera-usb-c-offers.md)
 - [MUMSTHT Kids Headphones: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-mumstht-kids-headphones-spec-focused-overview.md)
 - [Best Accessories for Jabra Evolve2 85: Top Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-best-accessories-for-jabra-evolve2-85-top-picks-2026.md)
 - [Jabra Evolve2 85 Alternatives: What to Consider Instead (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-jabra-evolve2-85-alternatives-what-to-consider-instead-2026.md)
