@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 13, 2026
+- [AOSRAU Wireless Earbuds: Evaluating the Features](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-aosrau-wireless-earbuds-evaluating-the-features.md)
 - [CXK Neckband Bluetooth Accessories That Last: Quality&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-cxk-neckband-bluetooth-accessories-that-last-quality.md)
 - [CXK Neckband Bluetooth vs CXK Bone Conduction: The Numbers&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-cxk-neckband-bluetooth-vs-cxk-bone-conduction-the-numbers.md)
 - [Skip CXK Neckband Bluetooth? Try These 6 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-skip-cxk-neckband-bluetooth-try-these-6-alternatives-2026.md)
