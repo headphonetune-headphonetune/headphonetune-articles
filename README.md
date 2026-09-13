@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 13, 2026
+- [Best Accessories for Jabra Evolve2 85: Top Picks (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-best-accessories-for-jabra-evolve2-85-top-picks-2026.md)
 - [Jabra Evolve2 85 Alternatives: What to Consider Instead (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-jabra-evolve2-85-alternatives-what-to-consider-instead-2026.md)
 - [Jabra Evolve2 85: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-jabra-evolve2-85-top-features-compared-2026.md)
 - [Parts Express 1/4-Inch Essentials: What to Grab First (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-parts-express-1-4-inch-essentials-what-to-grab-first-2026.md)
