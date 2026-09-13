@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 13, 2026
+- [The Monster Open Ear AC317 Starter Pack: What to Order&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-the-monster-open-ear-ac317-starter-pack-what-to-order.md)
 - [Monster Open Ear AC317 vs Monster Open Ear AC510: Which&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-monster-open-ear-ac317-vs-monster-open-ear-ac510-which.md)
 - [Looking for Monster Open Ear AC317 Alternatives? 6 Top&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-looking-for-monster-open-ear-ac317-alternatives-6-top.md)
 - [Monster Open Ear AC317: Spec Breakdown (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-monster-open-ear-ac317-spec-breakdown-2026.md)
