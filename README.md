@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 14, 2026
+- [VIOY Headphone Extension: Does It Deliver? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-vioy-headphone-extension-does-it-deliver-2026.md)
 - [Small Upgrades for Your VEKJ 2026 Sleep (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-small-upgrades-for-your-vekj-2026-sleep-2026.md)
 - [Skip VEKJ 2026 Sleep? What VEKJ 2026 Sleep Offers (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-skip-vekj-2026-sleep-what-vekj-2026-sleep-offers-2026.md)
 - [VEKJ 2026 Sleep: Does It Deliver? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-vekj-2026-sleep-does-it-deliver-2026.md)
