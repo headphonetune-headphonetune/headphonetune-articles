@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 14, 2026
+- [The Qeapaue New Upgraded Add-On Checklist: 5 Essentials (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-the-qeapaue-new-upgraded-add-on-checklist-5-essentials-2026.md)
 - [Qeapaue New Upgraded vs Otium Bluetooth Earbuds: Which One&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-qeapaue-new-upgraded-vs-otium-bluetooth-earbuds-which-one.md)
 - [Qeapaue New Upgraded: A Detailed Spec Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-qeapaue-new-upgraded-a-detailed-spec-analysis.md)
 - [STABCL Headphone Amplifier 6 vs STABCL Rechargeable in&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-stabcl-headphone-amplifier-6-vs-stabcl-rechargeable-in.md)
