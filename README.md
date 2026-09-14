@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 14, 2026
+- [OYIB Wireless Earbuds: Evaluating the Features](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-oyib-wireless-earbuds-evaluating-the-features.md)
 - [5 Essential Accessories for Your JoySpark Kids Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-5-essential-accessories-for-your-joyspark-kids-headphones-2026.md)
 - [Make the Most of JoySpark Kids Headphones: Essential&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-make-the-most-of-joyspark-kids-headphones-essential.md)
 - [Wireless Earbuds &amp; Q20i vs Xmenha Active Noise: Key Differences](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-wireless-earbuds-q20i-vs-xmenha-active-noise-key-differences.md)
