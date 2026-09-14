@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### September 14, 2026
+- [STABCL Headphone Amplifier 6: Is It Worth It? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-stabcl-headphone-amplifier-6-is-it-worth-it-2026.md)
+
 ### September 13, 2026
 - [Skip MUMSTHT Kids Headphones? What Houbrera USB C Offers&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-skip-mumstht-kids-headphones-what-houbrera-usb-c-offers.md)
 - [MUMSTHT Kids Headphones: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-13-mumstht-kids-headphones-spec-focused-overview.md)
