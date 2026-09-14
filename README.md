@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 14, 2026
+- [TRAUSI Wireless Earbuds: What to Know Before Buying](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-trausi-wireless-earbuds-what-to-know-before-buying.md)
 - [5 Essential Accessories for Your Drsaec Wireless Earbuds (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-5-essential-accessories-for-your-drsaec-wireless-earbuds-2026.md)
 - [What to Buy With Your Drsaec Wireless Earbuds: Complete&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-what-to-buy-with-your-drsaec-wireless-earbuds-complete.md)
 - [Drsaec Wireless Earbuds: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-drsaec-wireless-earbuds-top-features-compared-2026.md)
