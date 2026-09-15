@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### September 15, 2026
+- [LC-dolida Bluetooth Headband: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-15-lc-dolida-bluetooth-headband-features-specs-guide.md)
+
 ### September 14, 2026
 - [5 Essential Accessories for Your Sleep Mask (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-5-essential-accessories-for-your-sleep-mask-2026.md)
 - [Sleep Mask to CozyPhones Sleep Headphones: Worth the Jump?&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-14-sleep-mask-to-cozyphones-sleep-headphones-worth-the-jump.md)
