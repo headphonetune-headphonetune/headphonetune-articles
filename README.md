@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 15, 2026
+- [JXMOX USB C vs JXMOX USB Type: What Changed (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-15-jxmox-usb-c-vs-jxmox-usb-type-what-changed-2026.md)
 - [Other JXMOX USB C to Consider: 5 Alternatives (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-15-other-jxmox-usb-c-to-consider-5-alternatives-2026.md)
 - [JXMOX USB C: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-15-jxmox-usb-c-top-features-compared-2026.md)
 - [Accessorize Your QXUFV Wireless Earbuds: Smart Add-Ons (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-15-accessorize-your-qxufv-wireless-earbuds-smart-add-ons-2026.md)
