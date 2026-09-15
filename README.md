@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 15, 2026
+- [The Behringer MICROAMP HA400 Starter Pack: What to Order&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-15-the-behringer-microamp-ha400-starter-pack-what-to-order.md)
 - [Behringer MICROAMP HA400 to Behringer Truth 3.5: Worth the&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-15-behringer-microamp-ha400-to-behringer-truth-3-5-worth-the.md)
 - [Behringer MICROAMP HA400: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-15-behringer-microamp-ha400-features-specs-guide.md)
 - [MUSICOZY 3D Sleep Setup: Essential Accessories &amp; Add-Ons&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-15-musicozy-3d-sleep-setup-essential-accessories-add-ons.md)
