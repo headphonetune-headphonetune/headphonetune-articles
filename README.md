@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 16, 2026
+- [Wireless Earbuds &amp; Q20i vs Bose QuietComfort Headphones:&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-wireless-earbuds-q20i-vs-bose-quietcomfort-headphones.md)
 - [Lsolrophon T8 Wireless: Breaking Down the Specs](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-lsolrophon-t8-wireless-breaking-down-the-specs.md)
 - [The Best Prtukyt 6S Bluetooth Alternatives: 5 Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-the-best-prtukyt-6s-bluetooth-alternatives-5-compared-2026.md)
 - [Prtukyt 6S Bluetooth: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-prtukyt-6s-bluetooth-spec-focused-overview.md)
