@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 16, 2026
+- [Prtukyt 6S Bluetooth: Spec-Focused Overview](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-prtukyt-6s-bluetooth-spec-focused-overview.md)
 - [5 Essential Accessories for Your Sonitum Classroom Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-5-essential-accessories-for-your-sonitum-classroom-headphones-2026.md)
 - [Best Value Accessories for Sonitum Classroom Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-best-value-accessories-for-sonitum-classroom-headphones-2026.md)
 - [Sonitum Classroom Headphones Alternatives: 5 Better&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-sonitum-classroom-headphones-alternatives-5-better.md)
