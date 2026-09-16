@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 16, 2026
+- [Sony SRFHM55 Sports: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-sony-srfhm55-sports-features-specs-guide.md)
 - [ABEAUROOSE Foldable Bluetooth Headphones: Spec Analysis and Buying Advice](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-abeauroose-foldable-bluetooth-headphones-spec-analysis-and-buying-advice.md)
 - [Top Add-Ons for Type C Wired: What to Buy Together (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-top-add-ons-for-type-c-wired-what-to-buy-together-2026.md)
 - [Upgrading From Type C Wired? SGNICS Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-upgrading-from-type-c-wired-sgnics-compared-2026.md)
