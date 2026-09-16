@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 16, 2026
+- [Upgrading From Type C Wired? SGNICS Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-upgrading-from-type-c-wired-sgnics-compared-2026.md)
 - [Type C Wired &#8211; Headphones Review (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-type-c-wired-headphones-review-2026.md)
 - [5 Essential Accessories for Your Koss KTXPro1 Titanium 90s (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-5-essential-accessories-for-your-koss-ktxpro1-titanium-90s-2026.md)
 - [Koss KTXPro1 Titanium 90s vs Koss KSC22I Ultra: What&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-koss-ktxpro1-titanium-90s-vs-koss-ksc22i-ultra-what.md)
