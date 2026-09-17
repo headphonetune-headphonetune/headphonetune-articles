@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 17, 2026
+- [Small Upgrades for Your Maeline Bulk Earbuds 40 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-small-upgrades-for-your-maeline-bulk-earbuds-40-2026.md)
 - [Maeline Bulk Earbuds 40: Does It Deliver? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-maeline-bulk-earbuds-40-does-it-deliver-2026.md)
 - [What to Get Instead of PHILIPS Trucker Bluetooth: 6 Picks&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-what-to-get-instead-of-philips-trucker-bluetooth-6-picks.md)
 - [PHILIPS Trucker Bluetooth: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-philips-trucker-bluetooth-specs-performance-review.md)
