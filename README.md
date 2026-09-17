@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### September 17, 2026
+- [PHILIPS Trucker Bluetooth: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-philips-trucker-bluetooth-specs-performance-review.md)
+
 ### September 16, 2026
 - [ZIUTY Wireless Earbuds Accessories That Last: Quality&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-ziuty-wireless-earbuds-accessories-that-last-quality.md)
 - [Wireless Earbuds &amp; Q20i vs Accutone Walker 30: Worth the Upgrade?](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-16-wireless-earbuds-q20i-vs-accutone-walker-30-worth-the-upgrade.md)
