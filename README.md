@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 17, 2026
+- [Kxable 3.5mm Aux Setup: Essential Accessories &amp; Add-Ons (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-kxable-3-5mm-aux-setup-essential-accessories-add-ons-2026.md)
 - [Kxable 3.5mm Aux Alternatives: What to Consider Instead (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-kxable-3-5mm-aux-alternatives-what-to-consider-instead-2026.md)
 - [Kxable 3.5mm Aux: Top Features Compared (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-kxable-3-5mm-aux-top-features-compared-2026.md)
 - [Small Upgrades for Your Maeline Bulk Earbuds 40 (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-small-upgrades-for-your-maeline-bulk-earbuds-40-2026.md)
