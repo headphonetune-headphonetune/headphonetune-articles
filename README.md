@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 17, 2026
+- [Headphones Pick: havit Active Noise (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-headphones-pick-havit-active-noise-2026.md)
 - [6 Headphone Extension Cable Alternatives Worth Buying Instead](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-6-headphone-extension-cable-alternatives-worth-buying-instead.md)
 - [5 Essential Accessories for Your LENRUE Computer Speakers (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-5-essential-accessories-for-your-lenrue-computer-speakers-2026.md)
 - [LENRUE Computer Speakers: Practical Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-lenrue-computer-speakers-practical-analysis.md)
