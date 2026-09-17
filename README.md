@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 17, 2026
+- [Top rockpapa C24 Kids for Headphones (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-top-rockpapa-c24-kids-for-headphones-2026.md)
 - [5 Essential Accessories for Your POWMEE M2 Kids (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-5-essential-accessories-for-your-powmee-m2-kids-2026.md)
 - [POWMEE M2 Kids Essentials: What to Grab First (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-powmee-m2-kids-essentials-what-to-grab-first-2026.md)
 - [Not Sure About POWMEE M2 Kids? Check These 7 Similar&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-not-sure-about-powmee-m2-kids-check-these-7-similar.md)
