@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 17, 2026
+- [LENRUE Computer Speakers: Practical Analysis](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-lenrue-computer-speakers-practical-analysis.md)
 - [Accessorize Your Pcwfbzf 2 Pack: Smart Add-Ons (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-accessorize-your-pcwfbzf-2-pack-smart-add-ons-2026.md)
 - [Pcwfbzf 2 Pack vs JTLB Bluetooth Headset: Should You&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-pcwfbzf-2-pack-vs-jtlb-bluetooth-headset-should-you.md)
 - [Pcwfbzf 2 Pack: Does It Deliver? (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-pcwfbzf-2-pack-does-it-deliver-2026.md)
