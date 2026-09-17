@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 17, 2026
+- [Kensington Hi-Fi Headphones 3.5mm: Specs &amp; Performance Review](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-kensington-hi-fi-headphones-3-5mm-specs-performance-review.md)
 - [5 Must-Have Accessories for havit Active Noise (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-5-must-have-accessories-for-havit-active-noise-2026.md)
 - [havit Active Noise vs havit Hybrid Active: What Changed (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-havit-active-noise-vs-havit-hybrid-active-what-changed-2026.md)
 - [Headphones Pick: havit Active Noise (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-headphones-pick-havit-active-noise-2026.md)
