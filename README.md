@@ -3,6 +3,9 @@ HeadphoneTune soft articles and reviews
 
 ## Latest Reviews
 
+### September 18, 2026
+- [Headphones Pick: Jxrev Wireless Earbuds (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-18-headphones-pick-jxrev-wireless-earbuds-2026.md)
+
 ### September 17, 2026
 - [Small Upgrades for Your Kensington Hi-Fi Headphones 3.5mm&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-small-upgrades-for-your-kensington-hi-fi-headphones-3-5mm.md)
 - [Best Kensington Hi-Fi Headphones 3.5mm at the Same Price&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-17-best-kensington-hi-fi-headphones-3-5mm-at-the-same-price.md)
