@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 18, 2026
+- [Jxrev Wireless Earbuds vs Jxrev Wireless Earbuds: The&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-18-jxrev-wireless-earbuds-vs-jxrev-wireless-earbuds-the.md)
 - [Headphones Pick: Jxrev Wireless Earbuds (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-18-headphones-pick-jxrev-wireless-earbuds-2026.md)
 
 ### September 17, 2026
