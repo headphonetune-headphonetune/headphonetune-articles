@@ -4,6 +4,7 @@ HeadphoneTune soft articles and reviews
 ## Latest Reviews
 
 ### September 18, 2026
+- [Maxell Teachers 24-Pack: Features &amp; Specs Guide](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-18-maxell-teachers-24-pack-features-specs-guide.md)
 - [Complete Your Jxrev Wireless Earbuds Setup: Must-Have&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-18-complete-your-jxrev-wireless-earbuds-setup-must-have.md)
 - [Jxrev Wireless Earbuds vs Jxrev Wireless Earbuds: The&#8230;](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-18-jxrev-wireless-earbuds-vs-jxrev-wireless-earbuds-the.md)
 - [Headphones Pick: Jxrev Wireless Earbuds (2026)](https://github.com/headphonetune-headphonetune/headphonetune-articles/blob/main/reviews/2026-09-18-headphones-pick-jxrev-wireless-earbuds-2026.md)
